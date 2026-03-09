@@ -29,3 +29,11 @@ uv python default 3.11
 uv python uninstall 3.9
 ```
 ## 2.项目虚拟环境管理
+
+
+不需要每次都激活环境，在运行项目的时候，所有命令前面加`uv run`就行，比如`uv run python main.py`，uv 会自动找当前项目的`.venv`环境。
+
+3.依赖安装
+```shell
+uv add
+```
