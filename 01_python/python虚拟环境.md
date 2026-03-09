@@ -16,7 +16,7 @@ uv --version
 
 ## 1.全局 Python 版本管理
 
-```python
+```shell
 #查看所有可安装的Python版本 
 uv python list 
 #安装指定版本（支持模糊指定，比如3.10会自动装3.10最新小版本） 
@@ -33,7 +33,14 @@ uv python uninstall 3.9
 
 不需要每次都激活环境，在运行项目的时候，所有命令前面加`uv run`就行，比如`uv run python main.py`，uv 会自动找当前项目的`.venv`环境。
 
-3.依赖安装
+## 3.依赖安装
+
+基于`pyproject.toml`标准
 ```shell
 uv add
+uv remove
+uv install
+uv sync
 ```
+
+任何命令加`--help`就能看详细参数，不用死记
