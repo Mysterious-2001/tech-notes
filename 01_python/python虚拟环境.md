@@ -3,16 +3,18 @@
 # 安装
 
 ```shell
-curl -LsSf https://astral.sh/uv/install.sh | sh`
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
 
 # 验证
 
-`uv --version`
-
+```shell
+uv --version
+```
 
 # uv的作用
 
-## 全局 Python 版本管理
+## 1.全局 Python 版本管理
 
 ```python
 #查看所有可安装的Python版本 
@@ -26,3 +28,4 @@ uv python default 3.11
 #卸载指定版本 
 uv python uninstall 3.9
 ```
+## 2.项目虚拟环境管理
