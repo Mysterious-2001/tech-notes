@@ -135,3 +135,5 @@ nprobe：查询多少个cluster
 
 
 # Rerank的目的
+
+直接用rerank模型
