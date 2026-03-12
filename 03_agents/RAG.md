@@ -2,20 +2,9 @@ RAG 的第一原则是：
 
 > **先评估 retrieval，再评估 
 
-标准RAG pipline：
-Query  
-↓  
-Embedding  
-↓  
-Vector Search  
-↓  
-Top-K candidates (20~50)  
-↓  
-Reranker  
-↓  
-Top-N results (3~5)  
-↓  
-LLM
+顶层认识：
+工业界常用的RAG是做Hybrid RAG，关键词搜索+
+
 
 # Chunk
 ## what
