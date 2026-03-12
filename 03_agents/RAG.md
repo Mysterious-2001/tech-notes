@@ -15,7 +15,7 @@ RAG 的第一原则是：
 
 # Chunk
 
-本质：做精确性和上下文完整性的trade-off
+## 本质：做精确性和上下文完整性的trade-off
 
 ## 要做overlap
 overlap 一般取 chunk size 的 10% 到 20%
@@ -79,6 +79,45 @@ overlap 一般取 chunk size 的 10% 到 20%
 
 
 
+## 工业界推荐的流程
+
+1. 文档清洗  
+2. 结构解析  
+3. 按语义单元初切  
+4. 按 token 长度合并/再拆  
+5. 添加 overlap  
+6. 给每个 chunk 加 metadata  
+7. embedding  
+8. 入库
 # Embedding原理
+
+embedding用现成的模型就好，可以理解为文本到词向量空间的映射关系是模型学到的。
+
+## 召回算法
+
+常见算法主要 4 类。
+
+|算法|类型|特点|
+|---|---|---|
+|HNSW|图|最主流|
+|IVF|聚类|FAISS经典|
+|PQ|压缩|节省内存|
+|LSH|哈希|早期算法|
+
+常用的是HNSW和IVF
+下面详解一下两者
+
+## HNSF
+### 全名：Hierarchical Navigable Small World
+### 核心思想：
+用图结构找最近邻
+可以理解为：
+向量空间 → 构建邻居图
+每个向量连接最近的几个向量
+形成一个 **多层图结构**。
+### 核心参数
+M：每个节点连接的邻居数
+efConstruction
+## IVF
 
 # Rerank的目的
