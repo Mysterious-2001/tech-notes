@@ -1,0 +1,3 @@
+@propetry
+@dataclass
+@classmethod
