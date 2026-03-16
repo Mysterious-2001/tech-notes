@@ -139,10 +139,39 @@ print(c())
 如果一个函数：接受函数作为参数或者返回函数
 它就是高阶函数
 
+内置的高阶函数有map,reduce,filter
+
+
 lambda就是Python 的匿名函数，使用场景是创建一次性的小函数
 # 装饰器
+装饰器 = 函数替换
 
 # 生成器函数与yield
 
+生成器函数的作用：比如一个函数返回一个超大的列表，如果一次性返回会造成内存爆炸，所以提供生成器来按需生成数据
+
+例如
+```python
+def count_up(n):
+
+    i = 0
+
+    while i < n:
+        yield i
+        i += 1
+        
+for x in count_up(5):
+    print(x)
+```
+输出
+```python
+0
+1
+2
+3
+4
+```
+
+yield是暂停函数，return时结束函数
 # 异步函数
 
