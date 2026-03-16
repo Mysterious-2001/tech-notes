@@ -45,7 +45,7 @@ print(append_item(3))
 - 调用时如果没传对应参数，就取那里记录的对象
 所以默认参数是“定义期绑定”，不是“调用期重新计算”。
 
-
+# 位置参数、关键字参数、仅限位置、仅限关键字
 python的参数类型汇总：
 - 位置参数
 - 关键字参数
@@ -54,3 +54,45 @@ python的参数类型汇总：
 - 可变关键字参数 `**kwargs`，`**kwargs` 会把多余的关键字参数收集成字典。
 - 仅限位置参数 `/`
 - 仅限关键字参数 `*`
+
+`*` 和 `**` 不只用于定义，也用于调用
+```python
+def add(a, b, c):
+    return a + b + c
+
+nums = [1, 2, 3]
+print(add(*nums
+
+def greet(name, age):  
+print(name, age)  
+  
+info = {"name": "Alice", "age": 20}  
+greet(**info)
+```
+等价于
+```python
+print(add(1, 2, 3))
+
+greet(name="Alice", age=20)
+```
+# 返回值与多返回值本质
+Python 函数始终只返回一个对象。  
+这里返回的是一个 tuple。
+
+Python 函数如果没有显式 `return`，默认返回 `None
+Python是没有真正意义上的void函数
+
+# 作用域、闭包、LEGB
+
+zu
+
+#  函数注解与类型提示
+
+# 高阶函数、lambda
+
+# 装饰器
+
+# 生成器函数与yield
+
+# 异步函数
+
