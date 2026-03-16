@@ -84,12 +84,62 @@ Python是没有真正意义上的void函数
 
 # 作用域、闭包、LEGB
 
-zu
+## 作用域规则
+L  Local        当前函数
+E  Enclosing    外层函数
+G  Global       模块全局
+B  Builtin      内置作用域
 
+
+## 闭包
+
+## 闭包定义
+
+> **函数 + 捕获的外部变量 = 闭包**
+
+换句话说：
+函数记住了它创建时的环境。
+
+
+`global` vs `nonlocal`
+
+| 关键字      | 作用       |
+| -------- | -------- |
+| global   | 修改全局变量   |
+| nonlocal | 修改外层函数变量 |
+一个闭包的例子
+```python
+def counter():
+    count = 0
+
+    def inc():
+        nonlocal count
+        count += 1
+        return count
+
+    return inc
+
+c = counter()
+
+print(c())
+print(c())
+print(c())
+```
+工程上的使用场景：
+配置函数
+
+
+函数工厂
+
+装饰器 = 闭包+wrapper
 #  函数注解与类型提示
 
 # 高阶函数、lambda
 
+如果一个函数：接受函数作为参数或者返回函数
+它就是高阶函数
+
+lambda就是Python 的匿名函数，使用场景是创建一次性的小函数
 # 装饰器
 
 # 生成器函数与yield
