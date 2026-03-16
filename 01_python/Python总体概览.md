@@ -1,6 +1,10 @@
+# 基础知识
 [[python数据结构]]
 [[python函数]]
 [[python并发]]
-[[python虚拟环境]]
+
 [[python类型注解]]
 [[python装饰器]]
+
+# 项目管理
+[[python项目管理]]
