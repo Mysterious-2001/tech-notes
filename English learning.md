@@ -16,3 +16,6 @@ set someone straight means get someone to behave properly
 act casual
 cargo container
 
+think something through
+you carefully consider all aspects of a plan or decision before acting on it
+
