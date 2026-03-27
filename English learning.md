@@ -13,3 +13,4 @@ When a case is open and shut,it's very clear with obvious evidence,there's no do
 
 set someone straight means get someone to behave properly
 
+act casual
