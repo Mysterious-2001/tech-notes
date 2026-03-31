@@ -1,0 +1,3 @@
+[[slice]]
+
+[[struct and interface]]
