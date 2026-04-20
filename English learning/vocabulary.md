@@ -4,3 +4,7 @@ hilarious
 test drive
 livehood
 slow your roll
+soft insult
+you are not all that
+pay someone mind 
+bring someone down
