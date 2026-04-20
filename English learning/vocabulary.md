@@ -8,3 +8,5 @@ soft insult
 you are not all that
 pay someone mind 
 bring someone down
+side gig
+side hustle
