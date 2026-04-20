@@ -147,5 +147,8 @@ RAG的质量不好的原因分析：
 4. 检索需要考虑rerank，rerank的原因(bi-encoder和cross-encoder)
 
 全流程串联：
-query进来，要考虑两件事：query改写，意图识别。
+query进来，要考虑两件事：query改写/重写，意图识别。
 意图识别一般有三种实现：**规则方法**最简单直接——维护一套关键词映射表，query 里出现"报销""费用"就分到报销流程类，出现"销售""技巧"就分到销售策略类。优点是快、可控，缺点是覆盖不全，**ML 方法**用 BERT 等模型做分类，能捕获语义特征，对同义表达更鲁棒，但需要标注数据训练。**Prompt Engineering 方法**最灵活，直接让大模型做 zero-shot 或 few-shot 分类，不需要训练数据，适合快速验证。
+
+
+Rerank 模型（通常是 Cross-Encoder 架构）跟 Embedding 模型有本质区别：Embedding 是双塔模型，query 和 doc 各自编码再算相似度，速度快但精度有限；Cross-Encoder 是把 query 和 doc 拼接在一起输入 Transformer，做深度交互后直接输出相关性分数，精度高但速度慢。
