@@ -137,3 +137,10 @@ nprobe：查询多少个cluster
 # Rerank的目的
 
 直接用rerank模型
+
+
+
+RAG的质量不好的原因分析：
+1. query需要改写
+2. embedding模型是通用模型，需要考虑不同领域的定制embedding模型
+3. 
