@@ -12,3 +12,5 @@ side gig
 side hustle
 ASAP
 straight to the point
+landlord
+a broken hand handle
