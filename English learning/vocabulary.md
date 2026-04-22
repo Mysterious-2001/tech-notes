@@ -10,3 +10,5 @@ pay someone mind
 bring someone down
 side gig
 side hustle
+ASAP
+straight to the point
