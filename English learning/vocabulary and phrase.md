@@ -14,3 +14,5 @@ ASAP
 straight to the point
 landlord
 a broken hand handle
+memorable
+same here
