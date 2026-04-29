@@ -37,3 +37,7 @@ Have you found any good food spots around here
 
 I found this really good mala hotpot place near where I live. The flavor is amazing, and it’s pretty affordable.
 
+I’m here with my girlfriend—just traveling around.
+So far, it’s been amazing. The vibe here is really nice.
+
+That’s great to hear. How long are you staying?
