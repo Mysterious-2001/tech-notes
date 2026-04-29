@@ -45,3 +45,8 @@ That’s great to hear. How long are you staying?
 
 I've been here for 3 days and I'm planning to stay for 4 more days ❌
 I’ve been here for a few days, and I’m staying for a few more.
+
+
+Hey, can I get a medium latte, no ice, and less sweet?
+
+I’m trying to build muscle.
