@@ -32,3 +32,5 @@ I’m at Mythic right now and trying to push to the next rank.
 
 control the period这个是典型“中式表达”，母语者不会这么说
 I gotta admit, I’m kinda addicted to it already. But I’m trying to limit my playtime.
+
+Have you found any good food spots around here
