@@ -21,3 +21,6 @@ intense
 about -> involving
 Just a long day at work
 unwind
+to relax/ to unwind  NOT to get relaxed
+fast-paced
+grinding trophies   **grinding = 刷 / 肝（游戏语境非常地道🔥）
