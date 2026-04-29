@@ -41,3 +41,7 @@ I’m here with my girlfriend—just traveling around.
 So far, it’s been amazing. The vibe here is really nice.
 
 That’s great to hear. How long are you staying?
+
+
+I've been here for 3 days and I'm planning to stay for 4 more days ❌
+I’ve been here for a few days, and I’m staying for a few more.
