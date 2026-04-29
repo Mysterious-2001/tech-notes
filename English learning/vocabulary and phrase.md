@@ -16,3 +16,8 @@ landlord
 a broken hand handle
 memorable
 same here
+
+intense
+about -> involving
+Just a long day at work
+unwind
