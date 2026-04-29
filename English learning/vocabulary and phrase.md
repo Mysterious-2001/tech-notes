@@ -34,3 +34,6 @@ control the period这个是典型“中式表达”，母语者不会这么说
 I gotta admit, I’m kinda addicted to it already. But I’m trying to limit my playtime.
 
 Have you found any good food spots around here
+
+I found this really good mala hotpot place near where I live. The flavor is amazing, and it’s pretty affordable.
+
