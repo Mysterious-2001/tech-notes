@@ -50,3 +50,7 @@ I’ve been here for a few days, and I’m staying for a few more.
 Hey, can I get a medium latte, no ice, and less sweet?
 
 I’m trying to build muscle.
+
+I’m on a 4-day split, focusing on chest, back, legs, and shoulders.
+
+I’ve been into fitness for about three years, but I’ve only been training consistently for the past half year.
