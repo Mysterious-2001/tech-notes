@@ -57,3 +57,6 @@ I’ve been into fitness for about three years, but I’ve only been training co
 
 
 Yeah, I’ve already gain weight / put on weight about 4 kilos.
+I’m not really tracking my diet, but I try to eat enough carbs and protein.
+
+Do you ever track your calories or just go by feel
