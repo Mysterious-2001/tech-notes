@@ -54,3 +54,6 @@ I’m trying to build muscle.
 I’m on a 4-day split, focusing on chest, back, legs, and shoulders.
 
 I’ve been into fitness for about three years, but I’ve only been training consistently for the past half year.
+
+
+Yeah, I’ve already gain weight / put on weight about 4 kilos.
