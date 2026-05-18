@@ -8,20 +8,25 @@ Python 标准库里的 `subprocess` 模块，用它来**启动和控制外部进
 ## 最常见的用途
 
 比如你想在 Python 里执行：
-
-ls  
-pwd  
-git status  
-python other.py
+`ls`  
+`pwd`  
+`git status`  
+`python other.py`
 
 就会用到 `subprocess`。
 
 ## 一个最简单的例子
 
-import subprocess  
-  
+``` python
+import subprocess 
 result = subprocess.run(["ls", "-l"])
+```
 
 这行代码会执行终端命令：
 
-ls -l
+`ls -l`
+# 类里面的各类方法的使用
+- 用到 `self` → 普通方法
+- 用到 `cls` → `@classmethod`
+- 都不用、但和类语义相关 → `@staticmethod`
+- 都不用、和类也无关 → 直接写**模块级函数**
