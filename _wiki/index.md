@@ -23,3 +23,8 @@
 - [[_wiki/concepts/RAG|RAG]]
 - [[_wiki/concepts/Agent架构|Agent 架构]]
 - [[_wiki/concepts/职业能力模型|职业能力模型]]
+
+## 近期沉淀
+
+- [[05_life/self/自信与主动性|自信与主动性]]：把自信理解为行动、反馈和承担结果的心理基础。
+- [[05_life/hobbies/games/策略游戏与不确定性决策|策略游戏与不确定性决策]]：从策略游戏中提炼概率、长期期望和风险边界。

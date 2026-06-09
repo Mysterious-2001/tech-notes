@@ -1,5 +1,14 @@
 # LLM Wiki Log
 
+## [2026-06-09] inbox | 整理策略游戏、自信、创造与 Harness 输入
+
+- 清空 `00_inbox/` 中的 5 篇待整理笔记，按用途拆分而非原样搬运。
+- 新增 `05_life/self/自信与主动性.md`，沉淀自信与行动、反馈、关系和主动性的联系。
+- 新增 `05_life/hobbies/games/策略游戏与不确定性决策.md`，合并麻将与其他不确定性决策游戏的共同原则。
+- 将创造、沟通、尊重与选择合理化分别并入现有幸福、沟通、人际关系和思维工具主题页。
+- 将 Harness 相关文章保留到 `06_inputs/articles/`，并与 `03_knowledge/agents/Harness engineering.md` 建立双向导航。
+- 更新生活、技术、职业地图与 `_wiki/index.md`。
+
 ## [2026-06-09] knowledge | 沉淀 Git SSH 认证与多账号隔离
 
 - 新增 `03_knowledge/dev-practice/Git 使用 SSH 认证的原理与多账号隔离.md`，整理 HTTPS 与 SSH 的认证差异、公私钥和 `known_hosts` 的双向认证原理、公司与个人密钥隔离方式及常见排障路径。
