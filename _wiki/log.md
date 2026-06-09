@@ -1,5 +1,10 @@
 # LLM Wiki Log
 
+## [2026-06-09] knowledge | 沉淀 Git SSH 认证与多账号隔离
+
+- 新增 `03_knowledge/dev-practice/Git 使用 SSH 认证的原理与多账号隔离.md`，整理 HTTPS 与 SSH 的认证差异、公私钥和 `known_hosts` 的双向认证原理、公司与个人密钥隔离方式及常见排障路径。
+- 更新 `07_maps/技术学习地图.md`，加入 Git SSH 认证笔记入口。
+
 ## [2026-06-03] life | 新增幸福与生活质量主题页
 
 - 新增 `05_life/self/幸福与生活质量.md`，沉淀金钱、平静、幸福基线、工作和伴侣对生活质量的影响。
