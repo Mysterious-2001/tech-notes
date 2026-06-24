@@ -1,1487 +1,420 @@
-0:00
+# 1. 中文总结
 
-America has always been known as the king of fast food. It's home to some of the biggest brands to ever exist.
+这段视频是一个美国博主来到中国，探访几家中国大型快餐连锁店，想比较“中国快餐”和“美国快餐”到底谁更强。他们先后吃了德克士的炸鸡、瑞幸咖啡的椰云拿铁和厚乳拿铁、塔斯汀的中式汉堡、杨氏生煎、老乡鸡/米饭类快餐、杨国福麻辣烫、华莱士整只炸鸡，以及蜜雪冰城的冰淇淋和饮品。整体体验让他们非常惊讶：中国快餐不仅便宜，而且品类丰富，很多食物的口味、质感和性价比都超过了他们对“快餐”的期待。最后他们认为，中国快餐并不只是模仿美国快餐，而是发展出了自己的特色，其中最想带回美国的是杨氏生煎。
 
-0:05
+---
 
-5 seconds
+# 2. 分段英文整理版
 
-However, over the last few years, new fast food chains originating in China have slowly begun taking over, and some of them even have more locations than
+## Part 1：Is American Fast Food Still the Best?
 
-0:14
+**整理后的英文：**
 
-14 seconds
+America has always been known as the king of fast food. It’s home to some of the biggest brands to ever exist.
 
-McDonald's. So, in this video, I'm heading to China and eating at their biggest fast food chains just to answer one simple question. Is America's fast food really the best in the world?
+However, over the last few years, new fast food chains originating in China have slowly begun taking over, and some of them even have more locations than McDonald’s.
 
-0:26
+So in this video, I’m heading to China and eating at their biggest fast food chains just to answer one simple question: Is America’s fast food really the best in the world?
 
-26 seconds
+**中文解释：**
 
-All right, y'all. So, the first spot on my Chinese fast food tour is a place called Docos. This fast food chain was founded
+开头提出视频主题：美国一直被认为是快餐王国，但中国的快餐品牌近几年发展非常快，甚至有些门店数量超过麦当劳。视频的核心问题是：中国快餐是否已经能挑战美国快餐？
 
-0:35
+---
 
-35 seconds
+## Part 2：Dicos — China’s Answer to KFC
 
-in 1994 in Chungdu, China with one goal, be the Chinese KFC. Today, they have over 2500 locations, making them one of
+**整理后的英文：**
 
-0:42
+The first spot on my Chinese fast food tour is a place called Dicos. This fast food chain was founded in 1994 in Chengdu, China, with one goal: to be the Chinese KFC.
 
-42 seconds
+Today, they have over 2,500 locations, making them one of the biggest chains in the entire country. But the question is: did they get this big solely by being a knockoff, or is there something unique about them?
 
-the biggest chains in the entire country. But the question is, did they get this big solely by being a knockoff, or is there something else that's unique
+Their menu looks almost exactly like an American fast food chain. There are a few different fried chicken options, along with some sandwiches.
 
-0:50
+Their signature item is the crispy pistol leg. It’s basically a chicken leg with the thigh still attached, seasoned and fried differently from KFC.
 
-50 seconds
+The chicken is way crispier than most fried chicken I’ve had in the US. It’s juicy, tender, savory, and the coating has a little kick to it.
 
-about them? Let's go find out. I'm going to go order. All right, so the first thing I'm noticing that's kind of funny is that their menu looks exactly the same as an American
+If this is how we’re starting our China fast food tour, America’s in trouble. Dicos is definitely the real deal.
 
-0:58
+**中文解释：**
 
-58 seconds
+这一段介绍德克士。博主一开始以为它只是“中国版 KFC”，但吃了招牌“脆皮手枪腿”后非常惊喜。他强调鸡肉比美国很多炸鸡更酥、更嫩、更多汁，而且价格便宜。最后认为德克士不是简单模仿，而是真的有实力。
 
-fast food chains. Same style and everything. There's a few different fried chicken options along with some sandwiches. So, I placed my order and after a short wait.
+---
 
-1:07
+## Part 3：Luckin Coffee — Crushing Starbucks in China
 
-1 minute, 7 seconds
+**整理后的英文：**
 
-All right, everyone. I got my food. But before I show y'all exactly what's in front of me, a fast food video on this channel would not be complete without Jim. Like that transition.
+After knocking down some fried chicken, I was feeling a little thirsty. So we made it to a chain that some Americans may already be familiar with: Luckin Coffee.
 
-1:17
+Established in 2017, Luckin has become the largest coffee chain in China in just a few years, absolutely crushing Starbucks. They currently have over 33,000 locations, and they’ve also begun opening stores in New York City.
 
-1 minute, 17 seconds
+The signature drinks here are their coconut latte and their velvet latte. Both drinks combined cost less than four dollars, which is crazy considering that one drink from Starbucks can run you seven to ten bucks.
 
-That was nice. That was magical.
+The velvet latte is really good. It’s not super coffee-forward, so even someone who doesn’t usually like coffee might enjoy it.
 
-1:18
+The coconut latte is also kind of good. You don’t taste the coffee as much, and the coconut flavor makes it feel light and refreshing.
 
-1 minute, 18 seconds
+For me personally, Luckin is the real deal. I think I’m a fan of the in-house milk they make.
 
-Oh, so I'm in China. Now, in order to determine which of these fast food chains is the real deal, we'll be judging each place based on their signature item along with the price. And
+**中文解释：**
 
-1:27
+这一段介绍瑞幸咖啡。博主重点对比了瑞幸和星巴克：瑞幸门店多、价格低、饮品好喝。他试了椰云拿铁和厚乳拿铁，觉得口味不像传统咖啡那么苦，更适合大众饮用。适合学习“评价饮品”“比较品牌”“表达价格差距”的口语。
 
-1 minute, 27 seconds
+---
 
-by the end, we'll even decide which chain we want in the US the most. Now that everybody knows how this works, ladies and gents, in this box, we have
+## Part 4：Tastien — Reinventing the Burger
 
-1:36
+**整理后的英文：**
 
-1 minute, 36 seconds
+The next fast food chain is special because they’re reinventing the item America is most famous for: the burger.
 
-crispy pistol leg. This thing looks crazy. This is one of's signature items, and it's basically a chicken leg with the thigh still attached, which is then seasoned and fried differently from KFC.
+Welcome to Tastien, home of the Chinese burger.
 
-1:47
+Instead of using a typical American sesame bun, Tastien uses a hand-rolled Chinese flatbread that’s freshly baked in-house. Along with the different bun, their burgers also have unique fillings.
 
-1 minute, 47 seconds
+Since we’re extremely used to the taste and texture of a traditional American burger, there’s a chance this might taste strange to us.
 
-Although Decos did start out as a knockoff, they were actually acquired by another company 2 years after opening, which led them to develop flavors for
+We got their signature spicy chicken leg burger, and just for fun, we also got their roast duck burger.
 
-1:55
+The spicy chicken leg burger was actually really good — better than expected. The bun was light, fluffy, and airy. One thing I like is that it doesn’t feel as heavy as most American fast food burger buns.
 
-1 minute, 55 seconds
+The roast duck burger was more challenging. The texture of the duck was good, but it was sweeter than expected, and the cumin flavor came through very strongly.
 
-the Chinese pallet. Now, the price for both of these crispy pistol eggs along with two big Pepsis was literally only
+Overall, Tastien is the real deal, especially because of how good the chicken burger is.
 
-2:02
+**中文解释：**
 
-2 minutes, 2 seconds
+这一段介绍塔斯汀的中式汉堡。它不是照搬美国汉堡，而是用中式现烤饼代替汉堡胚。博主喜欢鸡腿堡，觉得饼皮轻盈、不腻；但对烤鸭堡评价更复杂，因为味道偏甜、孜然味重。这一段很适合学习“超出预期”“不太合口味”“食物质感”的表达。
 
-$11 USD. I feel like this same meal at KFC would cost you, I don't know, 20 bucks, probably. Plus, we get surgical gloves.
+---
 
-2:09
+## Part 5：Yang’s Dumplings — Fast Food Dumplings
 
-2 minutes, 9 seconds
+**整理后的英文：**
 
-They make sure we're hygienic. I like this. All right, Jim, are you ready to give this a shot? Yes. I'm a little nervous. I am not at all. This looks amazing.
+Next up is Yang’s Dumplings. They specialize in fast food dumplings.
 
-2:16
+Yang’s has been around since 1994. Although they now have hundreds of locations, they started out as a single shop in Shanghai, serving up an interesting twist on a classic item.
 
-2 minutes, 16 seconds
+I had no idea how it was even possible to make dumplings fast food, since they’re quite labor-intensive. But once we walked in, I noticed a window leading straight into the kitchen, and it suddenly made sense.
 
-Here we go. Our first taste of fast food in China. Cheers. That's so much better than KFC.
+The workers were still filling and shaping the dumplings by hand, while a machine cooked them quickly.
 
-2:24
+These are called shengjian bao. Think of them as a cousin to xiaolongbao. Instead of just being steamed, they’re steamed, pan-fried, and still filled with delicious broth.
 
-2 minutes, 24 seconds
+The bottom is crispy, the inside is juicy, and the meat is tender. Four of these dumplings cost less than two dollars.
 
-So, the first thing I'm noticing when biting into this, it's a lot crispier than most fried chicken. Not only at KFC, but I feel like most fried chicken places in the US.
+Can you believe this place is a fast food chain? I wish we had one back home. Yang’s is absolutely the real deal.
 
-2:32
+**中文解释：**
 
-2 minutes, 32 seconds
+这一段介绍杨氏生煎。博主惊讶于“生煎这种手工感很强的食物怎么能做成快餐”。他看到店里仍然手工包制，但烹饪流程高效化。最后非常喜欢：底部酥脆、里面有汤汁、肉馅嫩，而且价格很低。最后他们说最希望美国也有这家。
 
-The chicken is done very well. It's super juicy. And then, you know what?
+---
 
-2:37
+## Part 6：Mr. Rice — Home-Cooked Food at Fast Food Prices
 
-2 minutes, 37 seconds
+**整理后的英文：**
 
-The uh coating on it, there's a little kick to it. I like it.
+The next fast food chain is called Mr. Rice. They’ve built their entire brand around a simple idea: serve real home-cooked Chinese food at fast food prices.
 
-2:40
+Based on first impressions, this low-key feels like a luxury Panda Express. You grab a tray, walk down a line of thirty-plus dishes, and point at whatever you want.
 
-2 minutes, 40 seconds
+But the biggest difference is the food itself. They had braised pork belly, classic egg dishes, fried bean curd, shredded potatoes, and a bunch of other dishes you’d normally expect to find at a sit-down restaurant.
 
-Yeah. I'm trying to figure out what it is. It's hard to tell the actual seasoning, but it's super super savory. The chicken's moist and tender. It's popping. I'm gonna take one more bite.
+All of this food only costs about eight dollars. If you’re on a budget, just fly to China.
 
-2:48
+The braised pork has a sweet-and-salty vibe. The bean curd is marinated in soy sauce with a tiny little kick. The potatoes are spicier than expected.
 
-2 minutes, 48 seconds
+Even though I’m a fan of Panda Express, Mr. Rice is on another level. It crushes Panda Express and is definitely the real deal.
 
-Oh, man. If this is how we're starting our China fast food tour, America's in trouble. I mean, I'm sorry to the Colonel. This is insane.
+**中文解释：**
 
-2:57
+这一段介绍中式米饭快餐。博主把它比作“高级版 Panda Express”，但菜品更像正经中餐馆：红烧肉、豆腐、土豆丝等。他非常惊讶这些菜可以用快餐价格吃到，并认为它远超美国中餐快餐 Panda Express。
 
-2 minutes, 57 seconds
+---
 
-So, based on our reaction so far, is it safe for me to just go right out and say Do is definitely uh the real deal? Absolutely. This is surprisingly delicious.
+## Part 7：Yang Guo Fu — Malatang as Fast Food
 
-3:05
+**整理后的英文：**
 
-3 minutes, 5 seconds
+This next spot is serving up something completely different: Yang Guo Fu, a fast food chain with over 6,000 locations serving malatang.
 
-I am crushing it.
+Malatang is a style of food that began on the streets of Sichuan province. Vendors would set up a pot of spicy broth and let people pick whatever ingredients they wanted to throw in.
 
-3:10
+The way it works here is simple. You grab a bowl, fill it with whatever ingredients you want, then pick your broth.
 
-3 minutes, 10 seconds
+There are a few different broths to choose from, like classic bone broth, spicy mala, and sweet-and-sour tomato. But apparently, the broth can make or break the entire bowl.
 
-Okie dokie, everybody. Jim is behind the camera because as y'all can see, it is uh very windy and my tripod's going to fall over. But anyways, after knocking
+Jim got a tomato-based broth with no spice. I got a medium-spicy classic broth with fish balls, meatballs, imitation crab, fried tofu, and some veggies.
 
-3:17
+This doesn’t look like your typical fast food spot, but we got our food in under ten minutes, which screams fast food to me.
 
-3 minutes, 17 seconds
+There’s a deep, rich flavor in the broth, and all the ingredients pair really well together. We barely even spoke while we ate.
 
-down some fried chicken, I was feeling a little thirsty. So, we made it to a chain that some Americans may already be familiar with. Luckin Coffee.
+Yang Guo Fu is definitely the real deal. I really wish we had one of these in Texas.
 
-3:25
+**中文解释：**
 
-3 minutes, 25 seconds
+这一段介绍杨国福麻辣烫。博主解释了麻辣烫的形式：自己选食材、选汤底，快速煮好。他觉得这跟美国典型快餐完全不同，但速度够快、门店够多，所以也算快餐。他特别喜欢汤底的浓郁味道，以及食材之间的搭配。
 
-Established in 2017, in just a few years, Luckin has become the largest coffee chain in all of China, absolutely crushing Starbucks. They currently have
+---
 
-3:34
+## Part 8：Wallace — A Whole Fried Chicken for Three Dollars
 
-3 minutes, 34 seconds
+**整理后的英文：**
 
-over 33,000 locations, and they've also begun opening stores in New York City.
+We’ve now made it to Wallace, a chain with over 20,000 locations in China, which is more than KFC and McDonald’s.
 
-3:39
+Wallace was founded in 2001 and became what it is today by doing something KFC and McDonald’s wouldn’t: instead of setting up shop only in big cities, they focused on small towns, college campuses, and train stations.
 
-3 minutes, 39 seconds
+Wallace’s signature item is the entire bird. That’s literally a whole fried chicken for a little over three dollars.
 
-Surprisingly, I have never had Luckan before, but since I do love coffee and fun drinks, I'm excited to check this place out. My hair probably looks crazy. Jim, follow along.
+I honestly thought it would be dry, because when you cook a whole chicken, some parts usually cook faster and get overdone. But somehow, this is perfectly tender and juicy.
 
-3:48
+The seasoning is not super salty. It’s basic, but basic done very, very well.
 
-3 minutes, 48 seconds
+For three dollars, that’s what I can’t get over. Wallace is most definitely the real deal.
 
-Why is it so windy?
+**中文解释：**
 
-3:58
+这一段介绍华莱士。最让博主震惊的是：竟然能用三美元左右买到一整只炸鸡。他以为整鸡会很干，但实际很多汁、很嫩。虽然调味没有德克士复杂，但胜在便宜、稳定、做得扎实。
 
-3 minutes, 58 seconds
+---
 
-Place is nice. So, based on what I can find online, the signature drinks here are their coconut latte. Apparently, it's made with Luckan's very own special
+## Part 9：Mixue — The Biggest Restaurant Chain on Earth
 
-4:06
+**整理后的英文：**
 
-4 minutes, 6 seconds
+A fast food video in China would not be complete without visiting Mixue, also known as the largest restaurant chain on the entire planet.
 
-blend of coconut milk and also happens to be the most famous drink in the entire country. And along with that, they also have a velvet latte made with
+Mixue has over 53,000 locations worldwide. Even though there are some in the US, most Americans still haven’t heard of it.
 
-4:14
+This place feels more like a candy store than a fast food chain. Everything is bright, the menu is full of sweet treats, and the mascot is everywhere.
 
-4 minutes, 14 seconds
+Mixue is infamous for being extremely cheap. Their ice cream costs around thirty cents. I wanted to see how many things I could get for five dollars.
 
-a special creamy flavored milk. I'm not entirely sure what creamy flavored means, but um let's go order. Now, real
+We got their signature ice cream, orange tea, coconut latte, strawberry tea, and lemonade — all for five dollars.
 
-4:22
+The ice cream is creamy, silky, and smooth. It might be the best thirty cents I’ve ever spent.
 
-4 minutes, 22 seconds
+Some of the drinks are light rather than bursting with flavor, but for the price, it’s a great place. The coconut latte might even be better than the one from Luckin.
 
-quick, what's crazy about Luckin is that not only have they dominated in China, they've also recently purchased another huge American coffee brand. So, with
+Mixue is definitely the real deal.
 
-4:30
+**中文解释：**
 
-4 minutes, 30 seconds
+这一段介绍蜜雪冰城。博主重点讲它“极致便宜”：几杯饮品加冰淇淋总共才五美元。他尤其喜欢冰淇淋，觉得口感顺滑、价格离谱。饮品味道比较清爽，不是特别浓，但性价比非常高。
 
-Starbucks sales declining, it really makes me wonder, could Luckin also become the number one coffee chain in the US? The drinks have been acquired,
+---
 
-4:38
+## Part 10：Final Verdict — Which Chain Should Come to the US?
 
-4 minutes, 38 seconds
+**整理后的英文：**
 
-and based on looks alone, what you think?
+With that, we’ve officially tried China’s top fast food chains, which means the only thing left to do is answer the question: what Chinese fast food chain do we want in the US?
 
-4:40
+Yang’s Dumplings.
 
-4 minutes, 40 seconds
+I’m not just hopping on the bandwagon here. Yang’s Dumplings had a type of dumpling I’ve never really seen in the US. And if somehow it made it to America at those prices, it’s a lock.
 
-I mean, it looks like regular iced coffee.
+**中文解释：**
 
-4:43
+结尾他们选出最想带回美国的中国快餐品牌：杨氏生煎。原因是美国很少有这种类型的快餐，而且如果价格也能保持低廉，一定会很受欢迎。
 
-4 minutes, 43 seconds
+---
 
-It does. Both of these drinks look identical. So, this one right here is the coconut latte. And over here, their velvet latte. Both of these drinks
+# 3. 高频地道表达
 
-4:50
+| 英文表达 | 中文意思 | 使用场景 | 仿写句 |
+|---|---|---|---|
+| be known as... | 以……著称 | 介绍人、城市、品牌 | Chengdu is known as a great city for food. |
+| over the last few years | 在过去几年里 | 讲趋势变化 | Over the last few years, AI tools have become much more common. |
+| take over | 占领市场；变得流行 | 商业、趋势、生活 | Bubble tea shops are taking over the city. |
+| answer one simple question | 回答一个简单问题 | 视频、演讲、汇报开头 | Today I want to answer one simple question: is this tool worth using? |
+| first spot | 第一站 | 旅行、探店 | Our first spot today is a small coffee shop near the station. |
+| be founded in... | 创立于…… | 介绍公司/品牌 | The company was founded in 2017. |
+| with one goal: to... | 目标只有一个：去…… | 讲目标 | I started learning English with one goal: to speak more naturally. |
+| the real deal | 真材实料；真的很强 | 评价餐厅、产品、人 | This restaurant is the real deal. |
+| solely by... | 仅仅靠…… | 分析原因 | He didn’t succeed solely by luck. |
+| a knockoff | 山寨；仿制品 | 评价产品/品牌 | At first, I thought it was just a knockoff. |
+| based on first impressions | 从第一印象来看 | 评价体验 | Based on first impressions, this app looks pretty clean. |
+| low-key feels like... | 有点像…… | 口语化比较 | This place low-key feels like a movie set. |
+| run you about... | 大概要花你……钱 | 价格表达 | A coffee here will run you about five dollars. |
+| start things off with... | 先从……开始 | 点餐、汇报、活动 | Let’s start things off with the main problem. |
+| not super... | 不是特别…… | 温和评价 | It’s not super spicy, but it has a little kick. |
+| coffee-forward | 咖啡味很突出 | 评价饮品 | This latte is creamy and not too coffee-forward. |
+| have high expectations | 期待很高 | 试新品、看电影 | I have high expectations for this restaurant. |
+| not my cup of tea | 不是我的菜 | 委婉表达不喜欢 | Horror movies are not really my cup of tea. |
+| throw me off | 让我不适应/困惑 | 遇到奇怪体验 | The sweet flavor really threw me off. |
+| come through strongly | 味道/感觉很明显 | 评价食物、香水 | The garlic comes through really strongly. |
+| overpower everything else | 盖过其他味道 | 食物评价 | The sauce overpowers everything else. |
+| on another level | 高一个档次 | 夸产品/能力 | His presentation skills are on another level. |
+| make or break... | 决定成败 | 工作、考试、食物 | The sauce can make or break the whole dish. |
+| fingers crossed | 希望顺利 | 等结果、做选择 | Fingers crossed we made the right decision. |
+| under ten minutes | 十分钟以内 | 描述速度 | We got our food in under ten minutes. |
+| pair well together | 搭配得很好 | 食物、穿搭、合作 | The spicy sauce and sweet crab pair really well together. |
+| I can’t get over... | 我一直震惊于…… | 表达惊讶 | I can’t get over how cheap this meal is. |
+| basic done well | 简单但做得好 | 评价产品/食物 | It’s nothing fancy — just basic done really well. |
+| for the price | 就这个价格来说 | 性价比评价 | For the price, this hotel is really good. |
+| it’s a lock | 稳了；肯定会成功 | 预测结果 | If they launch it at that price, it’s a lock. |
 
-4 minutes, 50 seconds
+---
 
-combined, it cost less than $4, which is crazy considering the fact that a drink from Starbucks will run you about like 7
+# 4. 跟读句子
 
-4:57
+1. **Is America’s fast food really the best in the world?**  
+   - 中文意思：美国快餐真的是世界上最好的吗？  
+   - 可替换仿写：Is this really the best option for us?
 
-4 minutes, 57 seconds
+2. **Let’s go find out.**  
+   - 中文意思：我们去看看吧。  
+   - 可替换仿写：Let’s go check it out.
 
-to 10 bucks. Now, that's a fairly large gap. Anyways, let's start things off with the velvet latte, cuz I want to know what creamy flavored milk tastes like.
+3. **This looks amazing.**  
+   - 中文意思：这看起来太棒了。  
+   - 可替换仿写：This place looks amazing.
 
-5:08
+4. **That’s so much better than I expected.**  
+   - 中文意思：这比我预想的好多了。  
+   - 可替换仿写：The result is so much better than I expected.
 
-5 minutes, 8 seconds
+5. **It has a little kick to it.**  
+   - 中文意思：它有一点点辣/刺激感。  
+   - 可替换仿写：This sauce has a little kick to it.
 
-Dude, this is good. This is really Wait, what? I'm still not entirely sure what creamy flavored tastes like, but if I were to describe it, it would be what
+6. **I’m not a big coffee drinker.**  
+   - 中文意思：我不怎么喝咖啡。  
+   - 可替换仿写：I’m not a big tea drinker.
 
-5:17
+7. **I’m keeping an open mind.**  
+   - 中文意思：我会保持开放心态。  
+   - 可替换仿写：I’m keeping an open mind about this new project.
 
-5 minutes, 17 seconds
+8. **It’s just not my cup of tea.**  
+   - 中文意思：这不是我的菜。  
+   - 可替换仿写：That kind of music is just not my cup of tea.
 
-this tastes like. I know you normally don't like coffee, but there is a chance you like this. It's not super coffee forward. Okay.
+9. **This is on another level.**  
+   - 中文意思：这个完全高一个档次。  
+   - 可替换仿写：Her English pronunciation is on another level.
 
-5:25
+10. **For the price, this is really good.**  
+   - 中文意思：就这个价格来说，这真的很不错。  
+   - 可替换仿写：For the price, this hotel is really good.
 
-5 minutes, 25 seconds
+---
 
-Yeah, I don't like coffee still really. I mean, it's it's okay. I'm just not a coffee drinker.
+# 5. 句型模板
 
-5:30
+## 句型 1：It’s home to...
 
-5 minutes, 30 seconds
+- **含义：** 这里有……；这里是……的所在地  
+- **适合场景：** 介绍城市、国家、公司、学校  
+- **我的仿写：** Chengdu is home to a lot of amazing food.  
+- **更多例句：**  
+  - Singapore is home to many international companies.  
+  - This neighborhood is home to some great coffee shops.
 
-Next up, the coconut latte. Again, this supposedly is the most popular drink in this entire country. I have high expectations. Cheers.
+---
 
-5:38
+## 句型 2：Over the last few years, ... has become...
 
-5 minutes, 38 seconds
+- **含义：** 在过去几年里，……已经变成……  
+- **适合场景：** 讲行业趋势、个人变化、技术发展  
+- **我的仿写：** Over the last few years, AI has become part of my daily work.  
+- **更多例句：**  
+  - Over the last few years, remote work has become more common.  
+  - Over the last few years, I’ve become more serious about fitness.
 
-That's kind of good, too. Maybe I'm just low energy and I really need caffeine, but I kind of like this. Let me try this. You don't taste coffee on this one. Really, this one's the winner for me. Feel like I'm on an island.
+---
 
-5:50
+## 句型 3：The question is: ...
 
-5 minutes, 50 seconds
+- **含义：** 问题是……  
+- **适合场景：** 引出核心问题  
+- **我的仿写：** The question is: can I keep improving without burning out?  
+- **更多例句：**  
+  - The question is: is it worth the money?  
+  - The question is: how do we make this more efficient?
 
-Well, before I chug the rest of this coffee, let's keep this review short and sweet. For me personally, I would say Luckin is the real deal. I think I'm a fan of the in-house milk they make.
+---
 
-5:59
+## 句型 4：Based on first impressions, ...
 
-5 minutes, 59 seconds
+- **含义：** 从第一印象来看……  
+- **适合场景：** 初次评价餐厅、产品、环境、人  
+- **我的仿写：** Based on first impressions, this restaurant looks pretty solid.  
+- **更多例句：**  
+  - Based on first impressions, the app is easy to use.  
+  - Based on first impressions, the hotel seems clean and quiet.
 
-Tastes pretty good. Jim, what about you?
+---
 
-6:00
+## 句型 5：I’m not entirely sure what..., but...
 
-6 minutes
+- **含义：** 我不完全确定……是什么，但……  
+- **适合场景：** 不确定但想表达感受  
+- **我的仿写：** I’m not entirely sure what this sauce is, but it tastes amazing.  
+- **更多例句：**  
+  - I’m not entirely sure what went wrong, but we should check the logs.  
+  - I’m not entirely sure what this means, but it sounds important.
 
-So, I'm not a good judge for this cuz I'm not a big coffee drinker. Inconclusive.
+---
 
-6:05
+## 句型 6：There’s a chance...
 
-6 minutes, 5 seconds
+- **含义：** 有可能……  
+- **适合场景：** 表达不确定预测  
+- **我的仿写：** There’s a chance I’ll be late because of traffic.  
+- **更多例句：**  
+  - There’s a chance this might not work.  
+  - There’s a chance we picked the wrong place.
 
-Okay, I feel like that's fair. On to the next fast food chain.
+---
 
-6:11
+## 句型 7：I had no idea how...
 
-6 minutes, 11 seconds
+- **含义：** 我完全不知道……是怎么做到的  
+- **适合场景：** 表达惊讶、困惑  
+- **我的仿写：** I had no idea how they made the food so quickly.  
+- **更多例句：**  
+  - I had no idea how difficult this project would be.  
+  - I had no idea how cheap food could be here.
 
-So, the next fast food chain on our list is very special because they're actually reinventing the item America is the most
+---
 
-6:19
+## 句型 8：What’s throwing me off is...
 
-6 minutes, 19 seconds
+- **含义：** 让我不太适应的是……  
+- **适合场景：** 委婉评价奇怪、不习惯的地方  
+- **我的仿写：** What’s throwing me off is how sweet the sauce is.  
+- **更多例句：**  
+  - What’s throwing me off is the texture.  
+  - What’s throwing me off is the way he explained it.
 
-famous for. Welcome to Tastein, home of the Chinese burger. For anyone, including myself, who has never had a Chinese burger before, one of the
+---
 
-6:27
+## 句型 9：It’s not..., but...
 
-6 minutes, 27 seconds
+- **含义：** 它不是……，但是……  
+- **适合场景：** 平衡评价，既不绝对夸也不绝对贬  
+- **我的仿写：** It’s not fancy, but it’s really well-made.  
+- **更多例句：**  
+  - It’s not super spicy, but it has a nice kick.  
+  - It’s not cheap, but the quality is good.
 
-biggest differences is that instead of using the typical American sesame bun, Tasting uses a handrolled Chinese flatbread that's freshly baked inhouse.
+---
 
-6:35
+## 句型 10：If somehow..., it’s a lock.
 
-6 minutes, 35 seconds
-
-Along with the different bun, their burgers also have very interesting and unique fillings. But more on that in a second. I will say because Jim and I are
-
-6:44
-
-6 minutes, 44 seconds
-
-extremely used to the taste and textures of the traditional American burger, there is a chance this tastes very
-
-6:52
-
-6 minutes, 52 seconds
-
-strange to us. But are you ready to go find out? Yes and no. Let's do it.
-
-6:58
-
-6 minutes, 58 seconds
-
-Okay, so this might sound dumb, but now that I've stepped inside, this place lowkey feels very similar to McDonald's.
-
-7:04
-
-7 minutes, 4 seconds
-
-Not only because the color scheme is red, but also because just like how McDonald's popularized the fast food burger, Tastyen is popularizing the
-
-7:12
-
-7 minutes, 12 seconds
-
-Chinese burger. See how I put two and two together like that? My brain's working overtime.
-
-7:21
-
-7 minutes, 21 seconds
-
-So, we got our burgers and even though Tain has so many different burger options, the obvious choice was most definitely their signature spicy chicken
-
-7:29
-
-7 minutes, 29 seconds
-
-leg burger. And just for fun, I also had to get their roast duck burger. That's right. This burger is literally filled with delicious peek king duck. Since the
-
-7:38
-
-7 minutes, 38 seconds
-
-dish itself is such a staple here in China, it's not really a surprise they'd figure out a way to use it in fast food.
-
-7:43
-
-7 minutes, 43 seconds
-
-All right, Jim. So, obviously these look very different from what we're used to.
-
-7:46
-
-7 minutes, 46 seconds
-
-And like I said in the voiceover in the beginning, unlike the traditional American bun, this is the Chinese flatbread. What do you think?
-
-7:52
-
-7 minutes, 52 seconds
-
-I'm going to have to try this because I'm having my doubts.
-
-7:55
-
-7 minutes, 55 seconds
-
-See, you are honestly the perfect person to bring along for this because you love yourself an American burger.
-
-8:01
-
-8 minutes, 1 second
-
-I do. That's the bias that's going to happen on this. I'm just keeping an open mind.
-
-8:05
-
-8 minutes, 5 seconds
-
-Well, on that note, which one are you gonna try first?
-
-8:06
-
-8 minutes, 6 seconds
-
-I'm gonna try the uh Was it the chicken leg? Here we go.
-
-8:14
-
-8 minutes, 14 seconds
-
-Okay. So, Jim made a lot of different facial expressions. I can never read them. Let me let me hear your thoughts.
-
-8:19
-
-8 minutes, 19 seconds
-
-I'm still trying to get over this because I was thinking burger, burger, burger. I know we're talking chicken leg here and a duck. Man, just having
-
-8:28
-
-8 minutes, 28 seconds
-
-something like this, it's it's like a your mind plays tricks with you.
-
-8:32
-
-8 minutes, 32 seconds
-
-This is This is the most dramatic I've ever heard Jim be. Like I like a good Texas burger. This is not it.
-
-8:39
-
-8 minutes, 39 seconds
-
-Okay. Okay. First things first. Spicy chicken leg burger.
-
-8:42
-
-8 minutes, 42 seconds
-
-Okay. Spicy chicken leg burger was actually really good. I really liked it.
-
-8:46
-
-8 minutes, 46 seconds
-
-Okay. Better than I was expecting. Roast duck burger. You can keep that here.
-
-8:51
-
-8 minutes, 51 seconds
-
-Well, you know what? Now that you've tried it, it's only fair that um I put myself through this, too. First up, chicken leg.
-
-9:00
-
-9 minutes
-
-Oh, yeah. Right. That's good. One thing I do like about these is how light the bun is. Yeah, that was surprising, too.
-
-9:06
-
-9 minutes, 6 seconds
-
-My biggest issue with most American fast food burgers is once you get about like halfway, the bun gets you. Now, it's time for the roast duck burger. I do
-
-9:14
-
-9 minutes, 14 seconds
-
-trust Jim's taste buds because we've eaten so many different things together.
-
-9:18
-
-9 minutes, 18 seconds
-
-However, I like roast duck at the same time. You see, I think you're going to like it. It's just not my cup of tea. There's only one way to find out.
-
-9:25
-
-9 minutes, 25 seconds
-
-Actually, I was making the same faces.
-
-9:31
-
-9 minutes, 31 seconds
-
-So, I definitely don't hate it as much as you do. I think the texture of the duck is pretty good. I think what's throwing me off the most is it's a lot
-
-9:39
-
-9 minutes, 39 seconds
-
-sweeter than I expected it to be. And the cumin taste is coming across very, very strong. Like overpowers every other
-
-9:46
-
-9 minutes, 46 seconds
-
-thing in your mouth. I think my favorite thing about the burger is the bun. It's super light, fluffy, airy. It's nice. On that note, Jim, I'm let you go first. Is
-
-9:55
-
-9 minutes, 55 seconds
-
-Hasten the real deal. Does it compare to the American burger chains?
-
-10:01
-
-10 minutes, 1 second
-
-I'm gonna be nice. I'm gonna say yes because of how good this is. But dude, we're differing. You love yourself some burgers. I do.
-
-10:06
-
-10 minutes, 6 seconds
-
-You know what? That's fair. I expected this.
-
-10:11
-
-10 minutes, 11 seconds
-
-Okay, everyone. We've arrived at the next fast food chain. And I'm going to come right out and say it. I wish the US had a place like this. Behind us is
-
-10:19
-
-10 minutes, 19 seconds
-
-Yang's Dumplings. And if it wasn't obvious, they specialize in fast food dumplings. Yings has been around since 1994. And although they now have over a
-
-10:28
-
-10 minutes, 28 seconds
-
-few hundred locations, they started out as just a single shop in Shanghai serving up an interesting twist on a classic item. I truly have no idea how
-
-10:37
-
-10 minutes, 37 seconds
-
-it's even possible to make dumplings fast food since they're quite labor intensive to make. However, I am very excited to see how good these are. Jamie, you ready to go inside? Let's do it.
-
-10:45
-
-10 minutes, 45 seconds
-
-Let's go get some dumplings.
-
-10:48
-
-10 minutes, 48 seconds
-
-So, right when we walked in, I immediately noticed a window leading straight into the kitchen, and it suddenly made sense how they make dumplings so fast. From what I can tell,
-
-10:57
-
-10 minutes, 57 seconds
-
-this machine right here literally cooks them all by itself. But the cool part is, rather than making everything else in the restaurant automatic, too, the
-
-11:05
-
-11 minutes, 5 seconds
-
-workers were still filling and shaping the individual dumplings by hand. Jim, what do you think? They look good.
-
-11:11
-
-11 minutes, 11 seconds
-
-Different from what you're used to, right?
-
-11:13
-
-11 minutes, 13 seconds
-
-Oh, way different. I believe the proper term for these dumplings are shunen bao. Hopefully I'm saying that right.
-
-11:19
-
-11 minutes, 19 seconds
-
-Basically think of these as a cousin to the classic shaolong bao where instead of just being steamed, these are somehow steamed, pan fried, and they're still
-
-11:27
-
-11 minutes, 27 seconds
-
-filled with that delicious broth. Wow, look at that nice crispy bottom. All right, first things first. Take a bite and then drink the hot soup. Oh my god. What? Like this?
-
-11:36
-
-11 minutes, 36 seconds
-
-You have some skill on us. I have my ancestors.
-
-11:41
-
-11 minutes, 41 seconds
-
-Hot soup just shot out. I told you to be careful. Now we'll dip it in the vinegar down the rest of this thing. Let me tell you something. That's good. Mhm.
-
-11:49
-
-11 minutes, 49 seconds
-
-This is extremely juicy. The crisp on the bottom, man, it adds something to it. The meat in here very tender.
-
-11:56
-
-11 minutes, 56 seconds
-
-I absolutely agree with everything that Jim said. I've had soup dumplings before and I've had pan fried dumplings, but I don't think I've ever had the two
-
-12:04
-
-12 minutes, 4 seconds
-
-combined. They're really good.
-
-12:05
-
-12 minutes, 5 seconds
-
-And you know what the best part is? Four of these dumplings cost less than $2. I like that.
-
-12:19
-
-12 minutes, 19 seconds
-
-I think we both agree on this verdict, so I'll let you take it away. Is Yangs the real deal? Absolutely loved it.
-
-12:27
-
-12 minutes, 27 seconds
-
-Can you believe this place is a fast food chain?
-
-12:29
-
-12 minutes, 29 seconds
-
-I know. It's wild. I wish we had one back home. That's what I said.
-
-12:35
-
-12 minutes, 35 seconds
-
-So, the next fast food chain is right behind us. It's that green building right there, and it's called Mr. Rice. Jim, take a guess at what they serve. Lots and lots of rice.
-
-12:44
-
-12 minutes, 44 seconds
-
-Sort of. Let's head inside.
-
-12:47
-
-12 minutes, 47 seconds
-
-So, according to the internet, Mr. Rice has over 1,000 locations across China, and they've built their entire brand around a pretty simple idea. Serve a
-
-12:55
-
-12 minutes, 55 seconds
-
-real home-cooked Chinese food at fast food prices. Okay, y'all. So, based on first impressions, this low-key feels
-
-13:02
-
-13 minutes, 2 seconds
-
-like a luxury Panda Express. To my understanding, the way it works is you just grab a tray, then walk down a line of like 30 plus dishes and points at
-
-13:11
-
-13 minutes, 11 seconds
-
-whatever you want. Sound familiar? But the biggest difference is the food itself. They had things like braised pork belly, classic egg dishes, and a
-
-13:19
-
-13 minutes, 19 seconds
-
-bunch of other things I couldn't pronounce, but can only assume would mainly be found at a sit-down restaurant. So, my luxury Panda Express
-
-13:26
-
-13 minutes, 26 seconds
-
-has been acquired. Over here, we have some braised pork and pineapple, fried bean curd, shredded potatoes, and Jim, any idea what this is? I think that's the lots and lots of Mr. Rice.
-
-13:36
-
-13 minutes, 36 seconds
-
-Correct.
-
-13:37
-
-13 minutes, 37 seconds
-
-Obviously, all of this food looks absolutely delicious. But the best part is it literally only costs about $8. If you're on a budget, just fly to China.
-
-13:46
-
-13 minutes, 46 seconds
-
-All right, Jim. Since I have actually had most of these dishes at other Chinese restaurants, I'm going to let you go first. Thank you. What should I do first?
-
-13:53
-
-13 minutes, 53 seconds
-
-I would go for the brazed pork. I think you'll like that the most. I'm going big. Let me tell you something. That's good. It has a good flavor of pineapple in it.
-
-14:02
-
-14 minutes, 2 seconds
-
-I like this. Is it like a sweet and salty type vibe?
-
-14:04
-
-14 minutes, 4 seconds
-
-Dude, that's really good. You got to try it. Cheers.
-
-14:07
-
-14 minutes, 7 seconds
-
-M. That is pretty good. Now, let's try the bean curd. Have you had bean curd before? I don't even know what a bean curd is. Cheers.
-
-14:15
-
-14 minutes, 15 seconds
-
-Okay, it's not bad. Marinated in soy sauce. Little something spicy in there, too. Yeah. Tiny little kick. Try another piece.
-
-14:20
-
-14 minutes, 20 seconds
-
-See, this is this is Jim. He's always like, "I don't know if I'll like this." And then goes for another bite. Last but not least, potato. I like potatoes.
-
-14:28
-
-14 minutes, 28 seconds
-
-Cheers.
-
-14:32
-
-14 minutes, 32 seconds
-
-Oh, that's a that's got a kick. I need something to drink. That one's a little spicy.
-
-14:38
-
-14 minutes, 38 seconds
-
-You know, I should have expected that considering um the chilies are right there. My bad, Jim. Feeling okay.
-
-14:43
-
-14 minutes, 43 seconds
-
-Had to have a Pepsi to put it out. I'm good now. Oh, I almost forgot. You can't go to Mr. Rice without trying the rice. Tastes like rice.
-
-14:50
-
-14 minutes, 50 seconds
-
-Mhm. Y'all, we are eating so much fast food today. Honest to God, I'm running out of things to say. Even though I am a fan of Panda Express, Mr. Rice is on
-
-14:58
-
-14 minutes, 58 seconds
-
-another level. Our meal is complete. Jim, I'm going to let
-
-15:05
-
-15 minutes, 5 seconds
-
-you go first. Do you think Mr. Rice is the real deal? Mr. Rice is definitely the real deal. Much better than Panda.
-
-15:12
-
-15 minutes, 12 seconds
-
-I'm going to have to agree. Again, it pains me to say this because I do love orange chicken, but Mr. Rice crushes Panda Express and definitely is the real deal.
-
-15:24
-
-15 minutes, 24 seconds
-
-So, up until this point, almost every fast food chain we've visited has served something most Americans can wrap their heads around. Burgers, fried chicken,
-
-15:32
-
-15 minutes, 32 seconds
-
-that type of stuff. However, this next spot is serving up something completely different. Behind us is Yang Guu, a fast food chain with over 6,000 locations
-
-15:41
-
-15 minutes, 41 seconds
-
-serving something called Malatang. Jim, you got any idea what that is? No.
-
-15:45
-
-15 minutes, 45 seconds
-
-Originating centuries ago, Malatang is a style of food that began on the streets of Sichuan province. Vendors would set up a pot of spicy broth and just let
-
-15:54
-
-15 minutes, 54 seconds
-
-people pick whatever ingredients they wanted to throw in. Now that everyone's caught up to speed, let's go inside. So, just like the style of food, the inside
-
-16:01
-
-16 minutes, 1 second
-
-of this restaurant did not look like your typical fast food spot at all. Jim, are you overwhelmed? I am very overwhelmed.
-
-16:08
-
-16 minutes, 8 seconds
-
-It's okay. You'll be fine. I believe in you. Someone has to.
-
-16:10
-
-16 minutes, 10 seconds
-
-Now, the way things work here is actually pretty simple. Basically, all you got to do is grab a bowl from over here. Then, you fill it with whatever ingredients you want in your malaton. I
-
-16:18
-
-16 minutes, 18 seconds
-
-went ahead and just chose everything I would normally get for hot pot, like meatballs, nappa cabbage, some seafood, and even more veggies since my body
-
-16:27
-
-16 minutes, 27 seconds
-
-probably has to detox after all of this food today. Once that was complete, now I have to pick out what broth to get.
-
-16:33
-
-16 minutes, 33 seconds
-
-There were a few different ones to choose from, like a classic bone broth, a spicy mala, and even a sweet and sour tomato. But apparently, the one you pick
-
-16:40
-
-16 minutes, 40 seconds
-
-can make or break the entire bowl. Our food has been picked out. Did you make the right decision? I have no idea what I was even picking. half of the stuff. No idea.
-
-16:48
-
-16 minutes, 48 seconds
-
-Fingers crossed we made the right call. I should probably do what I'm doing.
-
-16:51
-
-16 minutes, 51 seconds
-
-Thank you. Thank you. Ooh, Jim, our food has arrived. What do you think of your bowl? I don't know. It smells awesome.
-
-17:00
-
-17 minutes
-
-Do you at least know what broth you got? Yes. Tomato based. No spice. No spice. Not for me.
-
-17:05
-
-17 minutes, 5 seconds
-
-Based on what I can tell from Jim's bowl, he's got the tomatobased broth with some corn, noodles, meatballs, rice cake, and some cabbage. Does that sound about right?
-
-17:13
-
-17 minutes, 13 seconds
-
-Yeah. And for me, I got their medium spicy classic broth with fish balls, meatballs, some imitation crab, fried tofu, and I do have some veggies in
-
-17:21
-
-17 minutes, 21 seconds
-
-there. They're just submerged. Now, I know this doesn't look like your typical fast food spot, but this chain does have over 6,000 locations. And we got our
-
-17:29
-
-17 minutes, 29 seconds
-
-food in under 10 minutes, which screams fast food chain to me. Jim, you ready to give it a try? All you. All me. All you.
-
-17:39
-
-17 minutes, 39 seconds
-
-That's good. It's not spicy at all, which I like, but there's a lot of flavor in there from the veggies and the beef in there. We got some noodles in
-
-17:47
-
-17 minutes, 47 seconds
-
-there. I mean, I think I made the right choice. Time to try mine. Ooh, that was good. It's got like a very, very slight kick. It might be spicy for you, but
-
-17:54
-
-17 minutes, 54 seconds
-
-it's like super savory. It's like a really like deep, rich flavor. Let me try some of the toppings, though. First, we got imitation crab. That's a good combo. Imitation crab is like a little sweet, so it works with the spicy broth.
-
-18:04
-
-18 minutes, 4 seconds
-
-Big fan of that. Overall, there was so much going on in these bowls, but all of the ingredients paired so well to the point where Jim and I barely even spoke while we ate. I don't know if y'all can
-
-18:12
-
-18 minutes, 12 seconds
-
-tell on camera, but Jim and I are sweating after absolutely demolishing these bowls. I'm just going to come right out and say it. I believe that
-
-18:20
-
-18 minutes, 20 seconds
-
-Yangfu I'm not exactly sure if I'm saying the name of this place right. I definitely believe that they are the real deal. I really wish we had one of these in Texas, but Jim, I'm curious what you think.
-
-18:30
-
-18 minutes, 30 seconds
-
-I think this is upper tier.
-
-18:31
-
-18 minutes, 31 seconds
-
-Wait, as in like it's one of the better fast food chains? Yes. Really? for sure.
-
-18:34
-
-18 minutes, 34 seconds
-
-The most one of the most different ones out of them all.
-
-18:36
-
-18 minutes, 36 seconds
-
-Yeah, I really liked it. And I was surprised, too. Maybe that has a lot to do with it, but man, this was good. Really good. Wow. I was not expecting that at all.
-
-18:47
-
-18 minutes, 47 seconds
-
-All righty, y'all. So, we've now made it to Wallace, a chain with over 20,000 locations in China, which is more than KFC and McDonald's.
-
-18:56
-
-18 minutes, 56 seconds
-
-That's crazy. Wallace was founded in 2001 and became what it is today by doing something KFC and McDonald's wouldn't. See, rather than setting up
-
-19:04
-
-19 minutes, 4 seconds
-
-shop in the big cities, they focused on small towns, college campuses, and even train stations. Now, here's what's interesting. We started the day at which
-
-19:12
-
-19 minutes, 12 seconds
-
-is trying to be the next KFC. Meanwhile, Wallace is already bigger, and they did it with one very unexpected move. I'll explain more once we get inside.
-
-19:23
-
-19 minutes, 23 seconds
-
-So unlike and KFC trying to sell you sandwiches or buckets of fried chicken, Wallace's signature item is actually the
-
-19:31
-
-19 minutes, 31 seconds
-
-entire bird. I'm still not quite sure how this is even possible, but that's literally an entire bird for less than $5. All right, Jim. From the looks of things, they have two different flavors.
-
-19:41
-
-19 minutes, 41 seconds
-
-We got regular crispy or honey glaze roasted. I'm going to let you choose. What do you want?
-
-19:45
-
-19 minutes, 45 seconds
-
-Oh my god, that's tough. Let's do I've never seen a whole bird crispy.
-
-19:48
-
-19 minutes, 48 seconds
-
-That's a good point. Crispy it is. I placed the order and honestly had no idea what to expect. But after a concerningly short wait,
-
-19:56
-
-19 minutes, 56 seconds
-
-ladies and gents, in this bag, we have an entire crispy fried chicken. Are you ready to to see what this looks like?
-
-20:03
-
-20 minutes, 3 seconds
-
-Yeah. Has to be a baby chicken.
-
-20:12
-
-20 minutes, 12 seconds
-
-Jim, what are your thoughts on this monstrosity in front of us?
-
-20:15
-
-20 minutes, 15 seconds
-
-I have never seen a whole chicken fried before.
-
-20:17
-
-20 minutes, 17 seconds
-
-Me neither. Can you believe this only costs a little bit more than $3?
-
-20:22
-
-20 minutes, 22 seconds
-
-It's a bargain, dude. This is cheaper than Costco. Now, out of all of the fast food chains we've been to so far, Wallace is the only one to have beaten
-
-20:30
-
-20 minutes, 30 seconds
-
-McDonald's and KFC in China. And to make things even more impressive, they've actually just opened up their first location in the US. So, if this is as
-
-20:38
-
-20 minutes, 38 seconds
-
-good as it looks, cheers, the US fast food chicken restaurants might be in trouble.
-
-20:49
-
-20 minutes, 49 seconds
-
-So far, the chicken in China has been phenomenal. I honestly thought it would be dried because they're cooking the entire chicken. You would think that like some parts would cook faster, so
-
-20:57
-
-20 minutes, 57 seconds
-
-they would overdo it, but somehow this is like perfectly tender, juicy. I can't believe it. I'm just thinking about a fast food place that does a whole fried
-
-21:04
-
-21 minutes, 4 seconds
-
-chicken. Like, I don't even think Boston Market back in the day did that.
-
-21:07
-
-21 minutes, 7 seconds
-
-What are your thoughts on the chicken itself?
-
-21:08
-
-21 minutes, 8 seconds
-
-Good. It's really juicy. The fried coating, it's good. I like the other place that we went to earlier.
-
-21:14
-
-21 minutes, 14 seconds
-
-You like these one? Yeah, honestly, after knocking down this little drumstick, I think I agree.
-
-21:18
-
-21 minutes, 18 seconds
-
-Seasoning here, it's not bad. It's not super salty or anything like that. It's still nice and savory, but I think the chicken atos had like a little bit more going on.
-
-21:25
-
-21 minutes, 25 seconds
-
-This is more like a basic, but it's like basic done very very well.
-
-21:29
-
-21 minutes, 29 seconds
-
-Agreed. And for $3, that's what I can't get over. Now, I was told that um eating the butt of a chicken is a delicacy in China. Um so, I'm going to eat the butt.
-
-21:44
-
-21 minutes, 44 seconds
-
-How's the butt?
-
-21:46
-
-21 minutes, 46 seconds
-
-There's some good butt. I never look at you the same again. Sorry, dude. I eat butt.
-
-21:50
-
-21 minutes, 50 seconds
-
-So, based on the fact that we absolutely crushed the rest of this fried chicken, I think it's safe to say Jim and I both agree that Wallace is most definitely the real deal.
-
-22:03
-
-22 minutes, 3 seconds
-
-Ladies and gents, we are now in Chongqing, China. And a fast food video in this country would not be complete
-
-22:10
-
-22 minutes, 10 seconds
-
-without visiting the one and only Mishe, also known as the largest restaurant chain on the entire planet. Believe it
-
-22:18
-
-22 minutes, 18 seconds
-
-or not, Mishu has over 53,000 locations worldwide. And even though there are some in the US, I feel like most Americans still have never heard of it.
-
-22:28
-
-22 minutes, 28 seconds
-
-It is very difficult for me to imagine another chain being bigger than McDonald's, but this one is. So, without further ado, let's go check out what
-
-22:35
-
-22 minutes, 35 seconds
-
-makes this big ice cream mascot thing so special. This is kind of intimidating. Feel like I'm at an amusement park.
-
-22:50
-
-22 minutes, 50 seconds
-
-What the heck, Jim? This place is insane. Yeah, it's a little overwhelming.
-
-22:54
-
-22 minutes, 54 seconds
-
-So, upon walking in, this place felt more like a candy store than a fast food chain. Everything was super bright.
-
-23:01
-
-23 minutes, 1 second
-
-Their menu was basically filled with only sweet treats and their adorable mascot was everywhere. Okay, guys. So,
-
-23:10
-
-23 minutes, 10 seconds
-
-Jim just went to find a table since he got a little bit overstimulated with how crazy this place is and told me to just surprise him, which may backfire. See,
-
-23:19
-
-23 minutes, 19 seconds
-
-Mishe is actually infamous for being extremely cheap. Like, for instance, their ice cream literally costs less than 50 USD. And because I'm now in
-
-23:27
-
-23 minutes, 27 seconds
-
-charge of the order, I kind of want to see how many things I can get for 5 USD.
-
-23:31
-
-23 minutes, 31 seconds
-
-All right, Jim, open your eyes. Okay, as y'all can see, the spread of Mishu items
-
-23:39
-
-23 minutes, 39 seconds
-
-has been acquired. Now, before I tell y'all what we got, guess how much all of this costs. Okay, I would normally say 40 bucks.
-
-23:47
-
-23 minutes, 47 seconds
-
-Incorrect. All of this cost $5. That's crazy.
-
-23:52
-
-23 minutes, 52 seconds
-
-It's literally less than one drink from Starbucks, which is insane. How do they do it? I don't know. I honestly have no idea.
-
-23:58
-
-23 minutes, 58 seconds
-
-So, of course, we had to get Mishu's signature ice cream. This right here is some orange tea, coconut latte. I believe this is a strawberry tea. And
-
-24:05
-
-24 minutes, 5 seconds
-
-finally, a lemonade. Now that y'all have seen everything we got, Jim, let's try this ice cream before it melts cuz uh it's actually already starting to ready. Yep. Cheers. Cheers.
-
-24:13
-
-24 minutes, 13 seconds
-
-30 cent ice cream.
-
-24:14
-
-24 minutes, 14 seconds
-
-30 cents each. It's wild.
-
-24:21
-
-24 minutes, 21 seconds
-
-Hey, dude. This might be the best 30 cents I've ever spent. Oh my gosh.
-
-24:24
-
-24 minutes, 24 seconds
-
-For 30 cents, dude. You can't even get a pack of gum for 30 cents. No.
-
-24:28
-
-24 minutes, 28 seconds
-
-The ice cream itself is creamy, silky, smooth. Oh my lord. I enjoy this quite a bit. I'm going to finish this whole thing. Beat me,
-
-24:36
-
-24 minutes, 36 seconds
-
-dude. I don't think we've crushed anything else in this video that fast.
-
-24:39
-
-24 minutes, 39 seconds
-
-Holy cow. Okay, now that Mishu's famous ice cream has been demolished, it is time to try these drinks. Now, since there are so many of them, Jim, in order
-
-24:48
-
-24 minutes, 48 seconds
-
-to keep things simple and, you know, help the viewers know what we like best, we're going to rate each drink from one to five. Cool.
-
-24:54
-
-24 minutes, 54 seconds
-
-Yep. Let's do it. First up, the lemonade. 3 2 1 3.8. Ew. You didn't like it.
-
-25:01
-
-25 minutes, 1 second
-
-It's almost like a crystal light lemonade.
-
-25:04
-
-25 minutes, 4 seconds
-
-Yeah. Yeah. Yeah. Yeah. It's not super lemony. No. That's why it's lower on my scale.
-
-25:08
-
-25 minutes, 8 seconds
-
-That makes sense. You are a lemonade connoisseur. I am. Next up, the strawberry tea. You go first this time.
-
-25:19
-
-25 minutes, 19 seconds
-
-Okay. I can't tell Jim's reactions at all.
-
-25:22
-
-25 minutes, 22 seconds
-
-This one's interesting. I understand why you went in for a second sip now. 2.5. Really?
-
-25:26
-
-25 minutes, 26 seconds
-
-I'll tell you why. I went in for the second sip because you get strawberry chunks out of it, which I liked. It's in the middle and not high because again,
-
-25:36
-
-25 minutes, 36 seconds
-
-it's um it's not bursting with strawberry flavor.
-
-25:38
-
-25 minutes, 38 seconds
-
-See, honestly, this is higher than I expected Jim to rate because he doesn't even like tea in the first place. So, not bad. Yeah, it's pretty good.
-
-25:45
-
-25 minutes, 45 seconds
-
-All right, final tea. This is my favorite part, by the way. Here we go.
-
-25:54
-
-25 minutes, 54 seconds
-
-I keep trying to read your facial reactions and I can't tell.
-
-25:58
-
-25 minutes, 58 seconds
-
-Not even a little bit. Three, two, one, four. Oh, that is your highest so far.
-
-26:04
-
-26 minutes, 4 seconds
-
-I rated it a four because I do like tea and I like that this was essentially just like a citrusy tea for me. Um I was
-
-26:12
-
-26 minutes, 12 seconds
-
-expecting like a uh an orange crush, you know? It's really bursting with flavor.
-
-26:18
-
-26 minutes, 18 seconds
-
-I mean, you can taste the orange in this, but again, it's like light. Like I said before in the lemonade, like a crystal light type thing. That's what it's like. Now, the last thing on the
-
-26:25
-
-26 minutes, 25 seconds
-
-list is Amish's coconut latte. I don't think they're necessarily known for their coffee. However, because this is
-
-26:32
-
-26 minutes, 32 seconds
-
-the biggest chain in China, I'm curious how this compares to the coconut latte from Luckin.
-
-26:42
-
-26 minutes, 42 seconds
-
-Hold on. I got to mix this up. Yeah, you're really thinking about this.
-
-26:47
-
-26 minutes, 47 seconds
-
-I can't believe I'm saying this, but I think this is better than the one at the coffee shop. The coconut flavor and the coffee blend together a lot more and it
-
-26:55
-
-26 minutes, 55 seconds
-
-comes through more clean than the coconut latte at Luck. How much was this? This latte was $163. That's insane.
-
-27:02
-
-27 minutes, 2 seconds
-
-All right, Jim. Now that we've tried everything in front of us, which honestly doesn't even compare to how many other things they have on the menu,
-
-27:09
-
-27 minutes, 9 seconds
-
-it is time to decide whether Nishe is the real deal. I'm going to let you go first. I'm curious what you have to say.
-
-27:15
-
-27 minutes, 15 seconds
-
-So, even though I rated it kind of low on the TE's and stuff like that, I think it's a go. Oh, yeah. I mean, for the
-
-27:23
-
-27 minutes, 23 seconds
-
-prices and what you get and for a place for the kids, you know, to bring your kids in or whoever, your nieces, nephews, all that type of stuff, I think this is a great place.
-
-27:32
-
-27 minutes, 32 seconds
-
-I'm assuming this is healthier than soda.
-
-27:34
-
-27 minutes, 34 seconds
-
-Oh, for sure. You know, I was already going to say yes just based off that ice cream alone, but because of the facts you brought up, it's going to be an extra yes for me. I agree. Mishe, which
-
-27:44
-
-27 minutes, 44 seconds
-
-already is in the US, definitely the real deal. With that, we've officially tried China's top fast food chains, which means the only thing left to do is
-
-27:52
-
-27 minutes, 52 seconds
-
-answer the question, Jim, what Chinese fast food chain do you want in the US?
-
-27:57
-
-27 minutes, 57 seconds
-
-Yangs. Ooh, I really like them. They were good.
-
-28:00
-
-28 minutes
-
-I promise I'm not hopping on the bandwagon here. I will also have to agree. Yang Dumplings literally had a type of dumpling I have never seen in
-
-28:07
-
-28 minutes, 7 seconds
-
-the US. And if somehow it made it here for those prices, it's a lock.
-
-Sync to video time
+- **含义：** 如果真的能……，那肯定稳了  
+- **适合场景：** 预测某产品/计划会成功  
+- **我的仿写：** If somehow they can keep the price this low, it’s a lock.  
+- **更多例句：**  
+  - If this app can solve that problem, it’s a lock.  
+  - If they open a store near my office, it’s a lock.
