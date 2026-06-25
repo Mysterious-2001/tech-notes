@@ -1,12 +1,14 @@
+以下材料基于你上传的 YouTube 字幕整理，主题是：美国博主去中国体验大型连锁快餐，并比较它们和美国快餐的差异。
+
 # 1. 中文总结
 
-这段视频是一个美国博主来到中国，探访几家中国大型快餐连锁店，想比较“中国快餐”和“美国快餐”到底谁更强。他们先后吃了德克士的炸鸡、瑞幸咖啡的椰云拿铁和厚乳拿铁、塔斯汀的中式汉堡、杨氏生煎、老乡鸡/米饭类快餐、杨国福麻辣烫、华莱士整只炸鸡，以及蜜雪冰城的冰淇淋和饮品。整体体验让他们非常惊讶：中国快餐不仅便宜，而且品类丰富，很多食物的口味、质感和性价比都超过了他们对“快餐”的期待。最后他们认为，中国快餐并不只是模仿美国快餐，而是发展出了自己的特色，其中最想带回美国的是杨氏生煎。
+这段视频讲的是两位美国博主来到中国，体验多个中国大型快餐连锁品牌，包括德克士、瑞幸咖啡、塔斯汀、杨记生煎、米先生、杨国福麻辣烫、华莱士和蜜雪冰城。他们一边试吃，一边比较这些品牌和美国熟悉的 KFC、McDonald’s、Starbucks、Panda Express 等连锁店的差异。整体来看，他们对中国快餐的评价非常高，尤其惊讶于价格便宜、出餐快、选择丰富，而且很多食物比他们预期更好吃。最后，他们认为中国快餐并不是简单模仿美国快餐，而是在本土口味、性价比和品类创新上做出了自己的特色，其中杨记生煎是他们最希望引入美国的品牌。
 
 ---
 
 # 2. 分段英文整理版
 
-## Part 1：Is American Fast Food Still the Best?
+## Part 1：Is American fast food really the best?
 
 **整理后的英文：**
 
@@ -14,205 +16,203 @@ America has always been known as the king of fast food. It’s home to some of t
 
 However, over the last few years, new fast food chains originating in China have slowly begun taking over, and some of them even have more locations than McDonald’s.
 
-So in this video, I’m heading to China and eating at their biggest fast food chains just to answer one simple question: Is America’s fast food really the best in the world?
+So, in this video, I’m heading to China and eating at their biggest fast food chains just to answer one simple question: Is America’s fast food really the best in the world?
 
 **中文解释：**
 
-开头提出视频主题：美国一直被认为是快餐王国，但中国的快餐品牌近几年发展非常快，甚至有些门店数量超过麦当劳。视频的核心问题是：中国快餐是否已经能挑战美国快餐？
+开头提出核心问题：美国一直被认为是快餐王国，但中国快餐连锁近几年发展很快，甚至有些门店数量超过麦当劳。博主想亲自去中国试吃，看看美国快餐是不是仍然世界第一。
 
 ---
 
-## Part 2：Dicos — China’s Answer to KFC
+## Part 2：Dicos — China’s version of KFC?
 
 **整理后的英文：**
 
 The first spot on my Chinese fast food tour is a place called Dicos. This fast food chain was founded in 1994 in Chengdu, China, with one goal: to be the Chinese KFC.
 
-Today, they have over 2,500 locations, making them one of the biggest chains in the entire country. But the question is: did they get this big solely by being a knockoff, or is there something unique about them?
+Today, they have over 2,500 locations, making them one of the biggest chains in the entire country. But the question is: did they get this big solely by being a knockoff, or is there something else that’s unique about them?
 
-Their menu looks almost exactly like an American fast food chain. There are a few different fried chicken options, along with some sandwiches.
+Their menu looks exactly like an American fast food chain: same style and everything. There are a few different fried chicken options along with some sandwiches.
 
 Their signature item is the crispy pistol leg. It’s basically a chicken leg with the thigh still attached, seasoned and fried differently from KFC.
 
-The chicken is way crispier than most fried chicken I’ve had in the US. It’s juicy, tender, savory, and the coating has a little kick to it.
+Although Dicos did start out as a knockoff, they later developed flavors for the Chinese palate. Both crispy pistol legs, along with two big Pepsis, cost only about $11.
 
-If this is how we’re starting our China fast food tour, America’s in trouble. Dicos is definitely the real deal.
+The chicken is much crispier than most fried chicken in the US. It’s super juicy, moist, tender, and the coating has a little kick to it. If this is how we’re starting our China fast food tour, America’s in trouble.
+
+Dicos is definitely the real deal.
 
 **中文解释：**
 
-这一段介绍德克士。博主一开始以为它只是“中国版 KFC”，但吃了招牌“脆皮手枪腿”后非常惊喜。他强调鸡肉比美国很多炸鸡更酥、更嫩、更多汁，而且价格便宜。最后认为德克士不是简单模仿，而是真的有实力。
+这一段试吃德克士。博主一开始觉得它像“中国版 KFC”，菜单风格很美式，但招牌炸鸡腿比 KFC 更脆、更嫩、更有调味层次，而且价格便宜。最后他们认为德克士不是简单山寨，而是真的好吃。
 
 ---
 
-## Part 3：Luckin Coffee — Crushing Starbucks in China
+## Part 3：Luckin Coffee — can it beat Starbucks?
 
 **整理后的英文：**
 
-After knocking down some fried chicken, I was feeling a little thirsty. So we made it to a chain that some Americans may already be familiar with: Luckin Coffee.
+After knocking down some fried chicken, I was feeling a little thirsty, so we made it to a chain some Americans may already be familiar with: Luckin Coffee.
 
 Established in 2017, Luckin has become the largest coffee chain in China in just a few years, absolutely crushing Starbucks. They currently have over 33,000 locations, and they’ve also begun opening stores in New York City.
 
-The signature drinks here are their coconut latte and their velvet latte. Both drinks combined cost less than four dollars, which is crazy considering that one drink from Starbucks can run you seven to ten bucks.
+The signature drinks here are their coconut latte and velvet latte. I’m not entirely sure what “creamy flavored milk” means, but let’s go order.
 
-The velvet latte is really good. It’s not super coffee-forward, so even someone who doesn’t usually like coffee might enjoy it.
+Both drinks combined cost less than $4, which is crazy considering a drink from Starbucks will run you about $7 to $10.
 
-The coconut latte is also kind of good. You don’t taste the coffee as much, and the coconut flavor makes it feel light and refreshing.
+The velvet latte is really good. It’s not super coffee-forward, so even someone who doesn’t normally like coffee might enjoy it.
+
+The coconut latte is kind of good, too. You don’t taste much coffee in this one. It feels like I’m on an island.
 
 For me personally, Luckin is the real deal. I think I’m a fan of the in-house milk they make.
 
 **中文解释：**
 
-这一段介绍瑞幸咖啡。博主重点对比了瑞幸和星巴克：瑞幸门店多、价格低、饮品好喝。他试了椰云拿铁和厚乳拿铁，觉得口味不像传统咖啡那么苦，更适合大众饮用。适合学习“评价饮品”“比较品牌”“表达价格差距”的口语。
+这一段体验瑞幸咖啡。博主强调瑞幸门店数量多、价格低，还已经进入纽约。他们试了椰乳拿铁和丝绒拿铁，觉得咖啡味不重、口感顺滑，性价比远高于星巴克。
 
 ---
 
-## Part 4：Tastien — Reinventing the Burger
+## Part 4：Tastien — reinventing the burger
 
 **整理后的英文：**
 
-The next fast food chain is special because they’re reinventing the item America is most famous for: the burger.
+The next fast food chain is very special because they’re actually reinventing the item America is most famous for: the burger.
 
-Welcome to Tastien, home of the Chinese burger.
+Welcome to Tastien, home of the Chinese burger. Instead of using the typical American sesame bun, Tastien uses a hand-rolled Chinese flatbread that’s freshly baked in-house.
 
-Instead of using a typical American sesame bun, Tastien uses a hand-rolled Chinese flatbread that’s freshly baked in-house. Along with the different bun, their burgers also have unique fillings.
+Their burgers also have very interesting and unique fillings. Because Jim and I are extremely used to the taste and texture of traditional American burgers, there is a chance this tastes very strange to us.
 
-Since we’re extremely used to the taste and texture of a traditional American burger, there’s a chance this might taste strange to us.
+We got their signature spicy chicken leg burger, and just for fun, we also got their roast duck burger. That’s right — this burger is literally filled with Peking duck.
 
-We got their signature spicy chicken leg burger, and just for fun, we also got their roast duck burger.
+The spicy chicken leg burger was actually really good, better than expected. The bun was light, fluffy, and airy. My biggest issue with most American fast food burgers is that once you get about halfway through, the bun gets you.
 
-The spicy chicken leg burger was actually really good — better than expected. The bun was light, fluffy, and airy. One thing I like is that it doesn’t feel as heavy as most American fast food burger buns.
+The roast duck burger was more complicated. I don’t hate it, but it’s sweeter than I expected, and the cumin taste comes across very strong. It overpowers everything else.
 
-The roast duck burger was more challenging. The texture of the duck was good, but it was sweeter than expected, and the cumin flavor came through very strongly.
-
-Overall, Tastien is the real deal, especially because of how good the chicken burger is.
+Overall, Tastien is the real deal, but it’s very different from a traditional American burger.
 
 **中文解释：**
 
-这一段介绍塔斯汀的中式汉堡。它不是照搬美国汉堡，而是用中式现烤饼代替汉堡胚。博主喜欢鸡腿堡，觉得饼皮轻盈、不腻；但对烤鸭堡评价更复杂，因为味道偏甜、孜然味重。这一段很适合学习“超出预期”“不太合口味”“食物质感”的表达。
+这一段试吃塔斯汀“中国汉堡”。它不是普通汉堡面包，而是用中式现烤饼胚。香辣鸡腿堡很成功，鸭肉堡则因为甜味和孜然味太强，让美国博主有点不适应。总体评价是有特色，但不是所有口味都能马上接受。
 
 ---
 
-## Part 5：Yang’s Dumplings — Fast Food Dumplings
+## Part 5：Yang’s Dumplings — fast food dumplings?
 
 **整理后的英文：**
 
-Next up is Yang’s Dumplings. They specialize in fast food dumplings.
+The next place is Yang’s Dumplings, and I wish the US had a place like this. They specialize in fast food dumplings.
 
-Yang’s has been around since 1994. Although they now have hundreds of locations, they started out as a single shop in Shanghai, serving up an interesting twist on a classic item.
+They started as a single shop in Shanghai, serving up an interesting twist on a classic item. I truly have no idea how it’s even possible to make dumplings fast food, since they’re quite labor-intensive.
 
-I had no idea how it was even possible to make dumplings fast food, since they’re quite labor-intensive. But once we walked in, I noticed a window leading straight into the kitchen, and it suddenly made sense.
+Right when we walked in, I noticed a window leading straight into the kitchen, and it suddenly made sense how they make dumplings so fast. The machine cooks them, but the workers still fill and shape the dumplings by hand.
 
-The workers were still filling and shaping the dumplings by hand, while a machine cooked them quickly.
+The proper term for these dumplings is shengjianbao. Think of them as a cousin to xiaolongbao, but instead of just being steamed, they’re steamed, pan-fried, and still filled with delicious broth.
 
-These are called shengjian bao. Think of them as a cousin to xiaolongbao. Instead of just being steamed, they’re steamed, pan-fried, and still filled with delicious broth.
+They’re extremely juicy. The crisp on the bottom adds something to it, and the meat inside is very tender. I’ve had soup dumplings before, and I’ve had pan-fried dumplings, but I don’t think I’ve ever had the two combined.
 
-The bottom is crispy, the inside is juicy, and the meat is tender. Four of these dumplings cost less than two dollars.
-
-Can you believe this place is a fast food chain? I wish we had one back home. Yang’s is absolutely the real deal.
+Four of these dumplings cost less than $2. Yang’s is absolutely the real deal. I wish we had one back home.
 
 **中文解释：**
 
-这一段介绍杨氏生煎。博主惊讶于“生煎这种手工感很强的食物怎么能做成快餐”。他看到店里仍然手工包制，但烹饪流程高效化。最后非常喜欢：底部酥脆、里面有汤汁、肉馅嫩，而且价格很低。最后他们说最希望美国也有这家。
+这一段是杨记生煎。博主惊讶于生煎这种费工的食物竟然能快餐化：机器负责煎制，人工仍然包制。生煎既有小笼包的汤汁，又有锅贴/煎包的脆底，价格还低，所以两人都非常喜欢。
 
 ---
 
-## Part 6：Mr. Rice — Home-Cooked Food at Fast Food Prices
+## Part 6：Mr. Rice — home-cooked food at fast food prices
 
 **整理后的英文：**
 
-The next fast food chain is called Mr. Rice. They’ve built their entire brand around a simple idea: serve real home-cooked Chinese food at fast food prices.
+The next fast food chain is called Mr. Rice. They’ve built their entire brand around a pretty simple idea: serve real home-cooked Chinese food at fast food prices.
 
-Based on first impressions, this low-key feels like a luxury Panda Express. You grab a tray, walk down a line of thirty-plus dishes, and point at whatever you want.
+Based on first impressions, this low-key feels like a luxury Panda Express. You grab a tray, walk down a line of 30-plus dishes, and point at whatever you want.
 
-But the biggest difference is the food itself. They had braised pork belly, classic egg dishes, fried bean curd, shredded potatoes, and a bunch of other dishes you’d normally expect to find at a sit-down restaurant.
+The biggest difference is the food itself. They had things like braised pork belly, classic egg dishes, shredded potatoes, and a bunch of other dishes that would usually be found at a sit-down restaurant.
 
-All of this food only costs about eight dollars. If you’re on a budget, just fly to China.
+All of this food cost about $8. If you’re on a budget, just fly to China.
 
-The braised pork has a sweet-and-salty vibe. The bean curd is marinated in soy sauce with a tiny little kick. The potatoes are spicier than expected.
+The braised pork has a sweet and salty vibe. The bean curd is marinated in soy sauce and has a tiny little kick. The shredded potatoes are a little spicy.
 
-Even though I’m a fan of Panda Express, Mr. Rice is on another level. It crushes Panda Express and is definitely the real deal.
+Even though I am a fan of Panda Express, Mr. Rice is on another level. It crushes Panda Express and is definitely the real deal.
 
 **中文解释：**
 
-这一段介绍中式米饭快餐。博主把它比作“高级版 Panda Express”，但菜品更像正经中餐馆：红烧肉、豆腐、土豆丝等。他非常惊讶这些菜可以用快餐价格吃到，并认为它远超美国中餐快餐 Panda Express。
+这一段体验米先生。博主把它形容成“高级版 Panda Express”，但菜品更像中式家常菜，比如红烧肉、豆干、土豆丝等。价格低、选择多、味道好，因此他们认为米先生明显强于美国中餐快餐 Panda Express。
 
 ---
 
-## Part 7：Yang Guo Fu — Malatang as Fast Food
+## Part 7：Yang Guofu Malatang — not your typical fast food
 
 **整理后的英文：**
 
-This next spot is serving up something completely different: Yang Guo Fu, a fast food chain with over 6,000 locations serving malatang.
+Up until this point, almost every fast food chain we’ve visited has served something most Americans can wrap their heads around: burgers, fried chicken, that type of stuff.
 
-Malatang is a style of food that began on the streets of Sichuan province. Vendors would set up a pot of spicy broth and let people pick whatever ingredients they wanted to throw in.
+But this next spot is serving something completely different: malatang. Yang Guofu has over 6,000 locations.
 
-The way it works here is simple. You grab a bowl, fill it with whatever ingredients you want, then pick your broth.
+Malatang began on the streets of Sichuan, where vendors would set up a pot of spicy broth and let people pick whatever ingredients they wanted to throw in.
 
-There are a few different broths to choose from, like classic bone broth, spicy mala, and sweet-and-sour tomato. But apparently, the broth can make or break the entire bowl.
+The way things work here is actually pretty simple. You grab a bowl, fill it with whatever ingredients you want, then choose your broth.
 
-Jim got a tomato-based broth with no spice. I got a medium-spicy classic broth with fish balls, meatballs, imitation crab, fried tofu, and some veggies.
+Apparently, the broth you pick can make or break the entire bowl.
 
-This doesn’t look like your typical fast food spot, but we got our food in under ten minutes, which screams fast food to me.
+We got our food in under 10 minutes, which screams fast food chain to me. My bowl had a medium spicy classic broth with fish balls, meatballs, imitation crab, fried tofu, and some vegetables.
 
-There’s a deep, rich flavor in the broth, and all the ingredients pair really well together. We barely even spoke while we ate.
+The broth has a very slight kick. It’s super savory, with a deep, rich flavor. There was so much going on in the bowl, but all of the ingredients paired so well.
 
-Yang Guo Fu is definitely the real deal. I really wish we had one of these in Texas.
+Yang Guofu is definitely the real deal. I really wish we had one of these in Texas.
 
 **中文解释：**
 
-这一段介绍杨国福麻辣烫。博主解释了麻辣烫的形式：自己选食材、选汤底，快速煮好。他觉得这跟美国典型快餐完全不同，但速度够快、门店够多，所以也算快餐。他特别喜欢汤底的浓郁味道，以及食材之间的搭配。
+这一段讲杨国福麻辣烫。对美国人来说，麻辣烫和传统快餐很不一样：自选食材、自选汤底，像“快餐化的火锅”。他们觉得汤底浓郁、配料丰富、出餐快，而且非常有特色。
 
 ---
 
-## Part 8：Wallace — A Whole Fried Chicken for Three Dollars
+## Part 8：Wallace — a whole fried chicken for three dollars?
 
 **整理后的英文：**
 
 We’ve now made it to Wallace, a chain with over 20,000 locations in China, which is more than KFC and McDonald’s.
 
-Wallace was founded in 2001 and became what it is today by doing something KFC and McDonald’s wouldn’t: instead of setting up shop only in big cities, they focused on small towns, college campuses, and train stations.
+Rather than setting up shop only in big cities, Wallace focused on small towns, college campuses, and train stations.
 
-Wallace’s signature item is the entire bird. That’s literally a whole fried chicken for a little over three dollars.
+Unlike KFC trying to sell you sandwiches or buckets of fried chicken, Wallace’s signature item is the entire bird. That’s literally an entire fried chicken for a little over $3.
 
-I honestly thought it would be dry, because when you cook a whole chicken, some parts usually cook faster and get overdone. But somehow, this is perfectly tender and juicy.
+I honestly thought it would be dry because they’re cooking the entire chicken. You would think some parts would cook faster and get overdone, but somehow it’s perfectly tender and juicy.
 
-The seasoning is not super salty. It’s basic, but basic done very, very well.
+The seasoning is not bad. It’s not super salty or anything like that. It’s still nice and savory. This is basic, but it’s basic done very, very well.
 
-For three dollars, that’s what I can’t get over. Wallace is most definitely the real deal.
+For $3, that’s what I can’t get over. Wallace is most definitely the real deal.
 
 **中文解释：**
 
-这一段介绍华莱士。最让博主震惊的是：竟然能用三美元左右买到一整只炸鸡。他以为整鸡会很干，但实际很多汁、很嫩。虽然调味没有德克士复杂，但胜在便宜、稳定、做得扎实。
+这一段体验华莱士。它的门店数量非常大，且靠下沉市场、学校、车站等场景发展起来。博主最惊讶的是几美元就能买一整只炸鸡，而且并不干柴，反而嫩、多汁，属于“简单但做得很好”。
 
 ---
 
-## Part 9：Mixue — The Biggest Restaurant Chain on Earth
+## Part 9：Mixue — the biggest chain on the planet
 
 **整理后的英文：**
 
-A fast food video in China would not be complete without visiting Mixue, also known as the largest restaurant chain on the entire planet.
+A fast food video in China would not be complete without visiting the one and only Mixue, also known as the largest restaurant chain on the entire planet.
 
-Mixue has over 53,000 locations worldwide. Even though there are some in the US, most Americans still haven’t heard of it.
+Mixue has over 53,000 locations worldwide. Even though there are some in the US, I feel like most Americans still have never heard of it.
 
-This place feels more like a candy store than a fast food chain. Everything is bright, the menu is full of sweet treats, and the mascot is everywhere.
+This place felt more like a candy store than a fast food chain. Everything was super bright, the menu was filled with sweet treats, and the mascot was everywhere.
 
-Mixue is infamous for being extremely cheap. Their ice cream costs around thirty cents. I wanted to see how many things I could get for five dollars.
+Mixue is infamous for being extremely cheap. Their ice cream costs less than 50 cents. I wanted to see how many things I could get for $5.
 
-We got their signature ice cream, orange tea, coconut latte, strawberry tea, and lemonade — all for five dollars.
+We got ice cream, orange tea, coconut latte, strawberry tea, and lemonade. All of this cost $5.
 
-The ice cream is creamy, silky, and smooth. It might be the best thirty cents I’ve ever spent.
+The ice cream itself is creamy, silky, and smooth. This might be the best 30 cents I’ve ever spent.
 
-Some of the drinks are light rather than bursting with flavor, but for the price, it’s a great place. The coconut latte might even be better than the one from Luckin.
-
-Mixue is definitely the real deal.
+The drinks were more mixed, but for the prices and what you get, Mixue is definitely the real deal.
 
 **中文解释：**
 
-这一段介绍蜜雪冰城。博主重点讲它“极致便宜”：几杯饮品加冰淇淋总共才五美元。他尤其喜欢冰淇淋，觉得口感顺滑、价格离谱。饮品味道比较清爽，不是特别浓，但性价比非常高。
+这一段是蜜雪冰城。博主强调它是全球门店最多的餐饮连锁之一，价格极低，5 美元能买一大桌饮品和冰淇淋。饮品评价有高有低，但冰淇淋性价比极高，所以他们仍然认为蜜雪非常厉害。
 
 ---
 
-## Part 10：Final Verdict — Which Chain Should Come to the US?
+## Part 10：Which Chinese fast food chain should come to the US?
 
 **整理后的英文：**
 
@@ -220,201 +220,323 @@ With that, we’ve officially tried China’s top fast food chains, which means 
 
 Yang’s Dumplings.
 
-I’m not just hopping on the bandwagon here. Yang’s Dumplings had a type of dumpling I’ve never really seen in the US. And if somehow it made it to America at those prices, it’s a lock.
+I promise I’m not hopping on the bandwagon here. I also have to agree. Yang’s Dumplings had a type of dumpling I have never seen in the US. And if somehow it made it here for those prices, it’s a lock.
 
 **中文解释：**
 
-结尾他们选出最想带回美国的中国快餐品牌：杨氏生煎。原因是美国很少有这种类型的快餐，而且如果价格也能保持低廉，一定会很受欢迎。
+最后他们总结：如果只能选一个中国快餐品牌进入美国，他们都选杨记生煎。原因是它在美国少见、有独特性，而且如果能保持中国价格，几乎必火。
 
 ---
 
-# 3. 高频地道表达
+# 3. 回译训练句子
 
-| 英文表达 | 中文意思 | 使用场景 | 仿写句 |
+|编号|中文提示|英文原句|重点表达|
 |---|---|---|---|
-| be known as... | 以……著称 | 介绍人、城市、品牌 | Chengdu is known as a great city for food. |
-| over the last few years | 在过去几年里 | 讲趋势变化 | Over the last few years, AI tools have become much more common. |
-| take over | 占领市场；变得流行 | 商业、趋势、生活 | Bubble tea shops are taking over the city. |
-| answer one simple question | 回答一个简单问题 | 视频、演讲、汇报开头 | Today I want to answer one simple question: is this tool worth using? |
-| first spot | 第一站 | 旅行、探店 | Our first spot today is a small coffee shop near the station. |
-| be founded in... | 创立于…… | 介绍公司/品牌 | The company was founded in 2017. |
-| with one goal: to... | 目标只有一个：去…… | 讲目标 | I started learning English with one goal: to speak more naturally. |
-| the real deal | 真材实料；真的很强 | 评价餐厅、产品、人 | This restaurant is the real deal. |
-| solely by... | 仅仅靠…… | 分析原因 | He didn’t succeed solely by luck. |
-| a knockoff | 山寨；仿制品 | 评价产品/品牌 | At first, I thought it was just a knockoff. |
-| based on first impressions | 从第一印象来看 | 评价体验 | Based on first impressions, this app looks pretty clean. |
-| low-key feels like... | 有点像…… | 口语化比较 | This place low-key feels like a movie set. |
-| run you about... | 大概要花你……钱 | 价格表达 | A coffee here will run you about five dollars. |
-| start things off with... | 先从……开始 | 点餐、汇报、活动 | Let’s start things off with the main problem. |
-| not super... | 不是特别…… | 温和评价 | It’s not super spicy, but it has a little kick. |
-| coffee-forward | 咖啡味很突出 | 评价饮品 | This latte is creamy and not too coffee-forward. |
-| have high expectations | 期待很高 | 试新品、看电影 | I have high expectations for this restaurant. |
-| not my cup of tea | 不是我的菜 | 委婉表达不喜欢 | Horror movies are not really my cup of tea. |
-| throw me off | 让我不适应/困惑 | 遇到奇怪体验 | The sweet flavor really threw me off. |
-| come through strongly | 味道/感觉很明显 | 评价食物、香水 | The garlic comes through really strongly. |
-| overpower everything else | 盖过其他味道 | 食物评价 | The sauce overpowers everything else. |
-| on another level | 高一个档次 | 夸产品/能力 | His presentation skills are on another level. |
-| make or break... | 决定成败 | 工作、考试、食物 | The sauce can make or break the whole dish. |
-| fingers crossed | 希望顺利 | 等结果、做选择 | Fingers crossed we made the right decision. |
-| under ten minutes | 十分钟以内 | 描述速度 | We got our food in under ten minutes. |
-| pair well together | 搭配得很好 | 食物、穿搭、合作 | The spicy sauce and sweet crab pair really well together. |
-| I can’t get over... | 我一直震惊于…… | 表达惊讶 | I can’t get over how cheap this meal is. |
-| basic done well | 简单但做得好 | 评价产品/食物 | It’s nothing fancy — just basic done really well. |
-| for the price | 就这个价格来说 | 性价比评价 | For the price, this hotel is really good. |
-| it’s a lock | 稳了；肯定会成功 | 预测结果 | If they launch it at that price, it’s a lock. |
+|1|我想搞清楚它到底好不好。|I want to find out if this is actually good.|find out if...|
+|2|这个地方有点像中国版 KFC。|This place is kind of like the Chinese KFC.|kind of like...|
+|3|它不是只靠模仿做大的吧？|Did they get this big solely by being a knockoff?|get this big / solely by...|
+|4|我们进去看看。|Let’s go find out.|go find out|
+|5|这个菜单看起来跟美国快餐店一模一样。|Their menu looks exactly the same as an American fast food chain.|looks exactly the same as...|
+|6|这个价格真的太离谱了。|That’s crazy considering the fact that a drink from Starbucks will run you about $7 to $10.|considering the fact that... / run you|
+|7|我有点紧张。|I’m a little nervous.|be a little nervous|
+|8|这比 KFC 好吃太多了。|That’s so much better than KFC.|so much better than...|
+|9|外皮有一点辣味。|The coating has a little kick to it.|have a little kick to it|
+|10|我说不上来具体是什么调料。|It’s hard to tell the actual seasoning.|It’s hard to tell...|
+|11|如果一开始就这么强，美国快餐有麻烦了。|If this is how we’re starting our China fast food tour, America’s in trouble.|If this is how... / be in trouble|
+|12|这个品牌真的有实力。|This is definitely the real deal.|the real deal|
+|13|我不太确定这个味道是什么意思。|I’m not entirely sure what creamy flavored means.|I’m not entirely sure what... means|
+|14|它咖啡味没那么重。|It’s not super coffee-forward.|not super...|
+|15|我本来期待挺高的。|I have high expectations.|have high expectations|
+|16|这个比我预想的好多了。|It was better than I was expecting.|better than I was expecting|
+|17|这不是我喜欢的类型。|It’s just not my cup of tea.|not my cup of tea|
+|18|唯一的办法就是试试看。|There’s only one way to find out.|There’s only one way to...|
+|19|最让我意外的是它比我想的甜很多。|What’s throwing me off the most is that it’s a lot sweeter than I expected.|what’s throwing me off is...|
+|20|这个味道太强，把其他味道都盖住了。|It overpowers everything else.|overpower everything else|
+|21|这地方给我的第一印象像高级版 Panda Express。|Based on first impressions, this low-key feels like a luxury Panda Express.|based on first impressions / low-key feels like|
+|22|这个汤底选不好，整碗就毁了。|The broth you pick can make or break the entire bowl.|make or break...|
+|23|我觉得我选对了。|I think I made the right choice.|make the right choice|
+|24|我真没想到会这样。|I was not expecting that at all.|not expecting that at all|
+|25|这个价格是我最无法理解的地方。|For $3, that’s what I can’t get over.|can’t get over...|
 
 ---
 
-# 4. 跟读句子
+# 4. 高频地道表达
 
-1. **Is America’s fast food really the best in the world?**  
-   - 中文意思：美国快餐真的是世界上最好的吗？  
-   - 可替换仿写：Is this really the best option for us?
-
-2. **Let’s go find out.**  
-   - 中文意思：我们去看看吧。  
-   - 可替换仿写：Let’s go check it out.
-
-3. **This looks amazing.**  
-   - 中文意思：这看起来太棒了。  
-   - 可替换仿写：This place looks amazing.
-
-4. **That’s so much better than I expected.**  
-   - 中文意思：这比我预想的好多了。  
-   - 可替换仿写：The result is so much better than I expected.
-
-5. **It has a little kick to it.**  
-   - 中文意思：它有一点点辣/刺激感。  
-   - 可替换仿写：This sauce has a little kick to it.
-
-6. **I’m not a big coffee drinker.**  
-   - 中文意思：我不怎么喝咖啡。  
-   - 可替换仿写：I’m not a big tea drinker.
-
-7. **I’m keeping an open mind.**  
-   - 中文意思：我会保持开放心态。  
-   - 可替换仿写：I’m keeping an open mind about this new project.
-
-8. **It’s just not my cup of tea.**  
-   - 中文意思：这不是我的菜。  
-   - 可替换仿写：That kind of music is just not my cup of tea.
-
-9. **This is on another level.**  
-   - 中文意思：这个完全高一个档次。  
-   - 可替换仿写：Her English pronunciation is on another level.
-
-10. **For the price, this is really good.**  
-   - 中文意思：就这个价格来说，这真的很不错。  
-   - 可替换仿写：For the price, this hotel is really good.
+|英文表达|中文意思|使用场景|仿写句|
+|---|---|---|---|
+|be known as...|被认为是……|介绍城市、品牌、人物|Chengdu is known as a city with amazing food.|
+|be home to...|是……的所在地|介绍地方特色|Singapore is home to people from many different cultures.|
+|take over|逐渐占领、流行起来|商业、趋势、市场|AI tools are slowly taking over many office tasks.|
+|head to...|前往……|旅行、日常出门|I’m heading to the gym after work.|
+|answer one simple question|回答一个简单问题|开场、引出主题|I’m trying to answer one simple question: is this worth buying?|
+|first spot|第一站|旅行、探店|Our first spot today is a small noodle shop.|
+|get this big|发展到这么大|聊公司、品牌|How did this app get this big so fast?|
+|go find out|去看看/弄清楚|探店、尝试|I’ve heard this place is good. Let’s go find out.|
+|based on looks alone|单看外观|评价食物、商品|Based on looks alone, this cake seems pretty good.|
+|run you about...|花你大概……钱|聊价格|A meal there will run you about 20 dollars.|
+|start things off with...|先从……开始|点餐、测评、会议|Let’s start things off with the easiest question.|
+|not super...|不是特别……|委婉评价|It’s not super spicy, but it has some heat.|
+|coffee-forward|咖啡味突出的|评价咖啡|This latte is creamy, but not too coffee-forward.|
+|short and sweet|简短直接|总结、汇报|I’ll keep this short and sweet.|
+|the real deal|真有实力/货真价实|评价人、店、产品|This restaurant is the real deal.|
+|reinvent...|重新定义/改造……|产品、商业创新|This app is trying to reinvent online learning.|
+|just for fun|纯粹为了好玩|点额外东西、尝试|I ordered the weirdest drink just for fun.|
+|keep an open mind|保持开放心态|尝试新东西|I don’t know if I’ll like it, but I’ll keep an open mind.|
+|not my cup of tea|不是我的菜|委婉说不喜欢|Horror movies are not really my cup of tea.|
+|throw me off|让我不适应/让我困惑|评价味道、情况|The strong smell really threw me off.|
+|come across strong|味道/感觉很强烈|评价食物、语气|The garlic comes across really strong.|
+|on another level|高一个档次|夸人、产品、食物|Her presentation skills are on another level.|
+|crush...|碾压/远胜于……|比较品牌、表现|This new phone crushes my old one.|
+|wrap your head around...|理解、接受某事|新概念、新体验|I still can’t wrap my head around how cheap it is.|
+|caught up to speed|了解背景信息|解释完背景后|Now that everyone’s caught up to speed, let’s start.|
+|make or break...|决定成败|工作、选择、食物|The first interview can make or break your chances.|
+|fingers crossed|希望顺利|不确定结果前|Fingers crossed we made the right decision.|
+|a slight kick|一点点辣/刺激感|评价食物|The soup has a slight kick, but it’s not too spicy.|
+|there’s so much going on|内容/味道很丰富|评价菜、设计、剧情|There’s so much going on in this dish.|
+|can’t get over...|对……感到震惊/过不去|价格、事实、体验|I can’t get over how cheap this place is.|
 
 ---
 
 # 5. 句型模板
 
-## 句型 1：It’s home to...
+## 句型 1：I’m heading to... just to answer one simple question.
 
-- **含义：** 这里有……；这里是……的所在地  
-- **适合场景：** 介绍城市、国家、公司、学校  
-- **我的仿写：** Chengdu is home to a lot of amazing food.  
-- **更多例句：**  
-  - Singapore is home to many international companies.  
-  - This neighborhood is home to some great coffee shops.
-
----
-
-## 句型 2：Over the last few years, ... has become...
-
-- **含义：** 在过去几年里，……已经变成……  
-- **适合场景：** 讲行业趋势、个人变化、技术发展  
-- **我的仿写：** Over the last few years, AI has become part of my daily work.  
-- **更多例句：**  
-  - Over the last few years, remote work has become more common.  
-  - Over the last few years, I’ve become more serious about fitness.
+- **含义：** 我正要去……，就是为了回答一个简单问题。
+    
+- **适合场景：** vlog 开场、探店、测试产品。
+    
+- **原文/接近原文：** I’m heading to China and eating at their biggest fast food chains just to answer one simple question.
+    
+- **我的仿写：** I’m heading to this new coffee shop just to answer one simple question: is it worth the hype?
+    
+- **更多例句：**
+    
+    - I’m heading to the mall just to answer one simple question: is this brand actually good?
+        
+    - I’m trying this app just to answer one simple question: can it really save me time?
+        
 
 ---
 
-## 句型 3：The question is: ...
+## 句型 2：The first thing I’m noticing is that...
 
-- **含义：** 问题是……  
-- **适合场景：** 引出核心问题  
-- **我的仿写：** The question is: can I keep improving without burning out?  
-- **更多例句：**  
-  - The question is: is it worth the money?  
-  - The question is: how do we make this more efficient?
-
----
-
-## 句型 4：Based on first impressions, ...
-
-- **含义：** 从第一印象来看……  
-- **适合场景：** 初次评价餐厅、产品、环境、人  
-- **我的仿写：** Based on first impressions, this restaurant looks pretty solid.  
-- **更多例句：**  
-  - Based on first impressions, the app is easy to use.  
-  - Based on first impressions, the hotel seems clean and quiet.
+- **含义：** 我第一眼注意到的是……
+    
+- **适合场景：** 评价餐厅、产品、环境。
+    
+- **原文/接近原文：** The first thing I’m noticing is that their menu looks exactly the same as an American fast food chain.
+    
+- **我的仿写：** The first thing I’m noticing is that this place feels really clean.
+    
+- **更多例句：**
+    
+    - The first thing I’m noticing is that the service is really fast.
+        
+    - The first thing I’m noticing is that the app looks much simpler than before.
+        
 
 ---
 
-## 句型 5：I’m not entirely sure what..., but...
+## 句型 3：It looks exactly the same as...
 
-- **含义：** 我不完全确定……是什么，但……  
-- **适合场景：** 不确定但想表达感受  
-- **我的仿写：** I’m not entirely sure what this sauce is, but it tastes amazing.  
-- **更多例句：**  
-  - I’m not entirely sure what went wrong, but we should check the logs.  
-  - I’m not entirely sure what this means, but it sounds important.
-
----
-
-## 句型 6：There’s a chance...
-
-- **含义：** 有可能……  
-- **适合场景：** 表达不确定预测  
-- **我的仿写：** There’s a chance I’ll be late because of traffic.  
-- **更多例句：**  
-  - There’s a chance this might not work.  
-  - There’s a chance we picked the wrong place.
+- **含义：** 它看起来和……一模一样。
+    
+- **适合场景：** 比较外观、设计、菜单、产品。
+    
+- **原文/接近原文：** Their menu looks exactly the same as an American fast food chain.
+    
+- **我的仿写：** This website looks exactly the same as the old version.
+    
+- **更多例句：**
+    
+    - This drink looks exactly the same as the one I had yesterday.
+        
+    - The layout looks exactly the same as Instagram.
+        
 
 ---
 
-## 句型 7：I had no idea how...
+## 句型 4：I feel like this same meal would cost...
 
-- **含义：** 我完全不知道……是怎么做到的  
-- **适合场景：** 表达惊讶、困惑  
-- **我的仿写：** I had no idea how they made the food so quickly.  
-- **更多例句：**  
-  - I had no idea how difficult this project would be.  
-  - I had no idea how cheap food could be here.
-
----
-
-## 句型 8：What’s throwing me off is...
-
-- **含义：** 让我不太适应的是……  
-- **适合场景：** 委婉评价奇怪、不习惯的地方  
-- **我的仿写：** What’s throwing me off is how sweet the sauce is.  
-- **更多例句：**  
-  - What’s throwing me off is the texture.  
-  - What’s throwing me off is the way he explained it.
+- **含义：** 我感觉同样一顿饭大概要花……
+    
+- **适合场景：** 比较价格、性价比。
+    
+- **原文/接近原文：** I feel like this same meal at KFC would cost you 20 bucks.
+    
+- **我的仿写：** I feel like this same coffee in Singapore would cost at least eight dollars.
+    
+- **更多例句：**
+    
+    - I feel like this same meal downtown would cost twice as much.
+        
+    - I feel like this same shirt from a big brand would cost over 100 dollars.
+        
 
 ---
 
-## 句型 9：It’s not..., but...
+## 句型 5：It’s hard to tell...
 
-- **含义：** 它不是……，但是……  
-- **适合场景：** 平衡评价，既不绝对夸也不绝对贬  
-- **我的仿写：** It’s not fancy, but it’s really well-made.  
-- **更多例句：**  
-  - It’s not super spicy, but it has a nice kick.  
-  - It’s not cheap, but the quality is good.
+- **含义：** 很难说清楚……
+    
+- **适合场景：** 不确定味道、原因、区别。
+    
+- **原文/接近原文：** It’s hard to tell the actual seasoning.
+    
+- **我的仿写：** It’s hard to tell what makes this so good.
+    
+- **更多例句：**
+    
+    - It’s hard to tell if he’s serious or joking.
+        
+    - It’s hard to tell the difference between these two options.
+        
 
 ---
 
-## 句型 10：If somehow..., it’s a lock.
+## 句型 6：I’m not entirely sure what... means.
 
-- **含义：** 如果真的能……，那肯定稳了  
-- **适合场景：** 预测某产品/计划会成功  
-- **我的仿写：** If somehow they can keep the price this low, it’s a lock.  
-- **更多例句：**  
-  - If this app can solve that problem, it’s a lock.  
-  - If they open a store near my office, it’s a lock.
+- **含义：** 我不完全确定……是什么意思。
+    
+- **适合场景：** 听到陌生词、菜单名、产品描述。
+    
+- **原文/接近原文：** I’m not entirely sure what creamy flavored means.
+    
+- **我的仿写：** I’m not entirely sure what “premium version” means here.
+    
+- **更多例句：**
+    
+    - I’m not entirely sure what this button does.
+        
+    - I’m not entirely sure what the waiter recommended.
+        
+
+---
+
+## 句型 7：There is a chance this tastes...
+
+- **含义：** 这个有可能尝起来……
+    
+- **适合场景：** 尝试陌生食物前。
+    
+- **原文/接近原文：** There is a chance this tastes very strange to us.
+    
+- **我的仿写：** There is a chance this tastes too sweet for me.
+    
+- **更多例句：**
+    
+    - There is a chance this drink is too strong.
+        
+    - There is a chance this dish is not my style.
+        
+
+---
+
+## 句型 8：What’s throwing me off the most is...
+
+- **含义：** 最让我不适应的是……
+    
+- **适合场景：** 表达某个细节让你困惑、不习惯。
+    
+- **原文/接近原文：** What’s throwing me off the most is that it’s a lot sweeter than I expected.
+    
+- **我的仿写：** What’s throwing me off the most is how quiet everyone is.
+    
+- **更多例句：**
+    
+    - What’s throwing me off the most is the texture.
+        
+    - What’s throwing me off the most is that the price is so low.
+        
+
+---
+
+## 句型 9：Based on first impressions, this feels like...
+
+- **含义：** 从第一印象来看，这感觉像……
+    
+- **适合场景：** 到店、试用产品、参观公司。
+    
+- **原文/接近原文：** Based on first impressions, this low-key feels like a luxury Panda Express.
+    
+- **我的仿写：** Based on first impressions, this feels like a really comfortable place to work.
+    
+- **更多例句：**
+    
+    - Based on first impressions, this feels like a good date spot.
+        
+    - Based on first impressions, this phone feels very premium.
+        
+
+---
+
+## 句型 10：For the price, I can’t get over...
+
+- **含义：** 看在这个价格的份上，我真的无法不惊讶于……
+    
+- **适合场景：** 强调性价比。
+    
+- **原文/接近原文：** For $3, that’s what I can’t get over.
+    
+- **我的仿写：** For the price, I can’t get over how good this meal is.
+    
+- **更多例句：**
+    
+    - For 20 dollars, I can’t get over how nice this hotel is.
+        
+    - For such a cheap app, I can’t get over how useful it is.
+        
+
+---
+
+# 6. 回译练习区
+
+1. 我想搞清楚它到底好不好。
+    
+2. 这个地方有点像中国版 KFC。
+    
+3. 它不是只靠模仿做大的吧？
+    
+4. 我们进去看看。
+    
+5. 这个菜单看起来跟美国快餐店一模一样。
+    
+6. 这个价格真的太离谱了。
+    
+7. 我有点紧张。
+    
+8. 这比 KFC 好吃太多了。
+    
+9. 外皮有一点辣味。
+    
+10. 我说不上来具体是什么调料。
+    
+11. 如果一开始就这么强，美国快餐有麻烦了。
+    
+12. 这个品牌真的有实力。
+    
+13. 我不太确定这个味道是什么意思。
+    
+14. 它咖啡味没那么重。
+    
+15. 我本来期待挺高的。
+    
+16. 这个比我预想的好多了。
+    
+17. 这不是我喜欢的类型。
+    
+18. 唯一的办法就是试试看。
+    
+19. 最让我意外的是它比我想的甜很多。
+    
+20. 这个味道太强，把其他味道都盖住了。
+    
+21. 这地方给我的第一印象像高级版 Panda Express。
+    
+22. 这个汤底选不好，整碗就毁了。
+    
+23. 我觉得我选对了。
+    
+24. 我真没想到会这样。
+    
+25. 这个价格是我最无法理解的地方。
