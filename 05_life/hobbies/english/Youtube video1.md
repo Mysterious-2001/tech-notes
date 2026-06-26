@@ -489,6 +489,8 @@ I promise I’m not hopping on the bandwagon here. I also have to agree. Yang’
 
 # 6. 回译练习区
 
+额外：物流网络，加盟费
+
 1. 我想搞清楚它到底好不好。
     
 2. 这个地方有点像中国版 KFC。
