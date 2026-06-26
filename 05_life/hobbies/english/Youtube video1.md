@@ -540,3 +540,18 @@ I promise I’m not hopping on the bandwagon here. I also have to agree. Yang’
 24. 我真没想到会这样。
     
 25. 这个价格是我最无法理解的地方。
+
+logistics
+
+### 用法 1：商业/供应链里的物流
+
+> **The company has its own logistics network.**  
+> 这家公司有自己的物流网络。
+
+### 用法 2：日常生活里的具体安排
+
+> **We still need to figure out the logistics.**  
+> 我们还得把具体安排弄清楚。
+
+
+franchise fees
