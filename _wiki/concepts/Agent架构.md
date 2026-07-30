@@ -6,9 +6,9 @@ Agent 架构本质是在应用架构中组织 LLM、工具、状态、规划和�
 
 ## 相关笔记
 
-- [[03_knowledge/agents/Agent架构|Agent 架构学习笔记]]
-- [[03_knowledge/agents/ReAct|ReAct]]
-- [[03_knowledge/agents/MCP|MCP]]
+- [[03_professional_knowledge/agents/Agent架构|Agent 架构学习笔记]]
+- [[ReAct|ReAct]]
+- [[MCP|MCP]]
 
 ## 待补问题
 
