@@ -36,6 +36,9 @@
   - `leisure/`：休息与娱乐。
   - `hobbies/`：英语、游戏、吉他、运动等长期爱好。
 - `06_inputs/`：带来源上下文的原始输入，按 `articles/`、`books/`、`papers/`、`podcasts/` 分类。
+  - `articles/ai-engineering/`：Agent、大模型与 AI 工程实践。
+  - `articles/thinking-and-communication/`：思维工具、逻辑与表达。
+  - `articles/career-and-life/`：职业选择、个人成长与生活判断。
 - `07_maps/`：人工维护的导航层，包括个人知识系统、职业发展、技术学习、生活与思考地图。
 - `_wiki/`：LLM 维护的综合知识层。
   - `index.md`：全局入口，只保留重要页面和一句话说明。
@@ -68,7 +71,7 @@
 
 ### 新输入
 
-1. 用途未明确时放入 `00_inbox/`；来源明确时直接放入 `06_inputs/` 对应类型。
+1. 用途未明确时放入 `00_inbox/`；来源明确时直接放入 `06_inputs/` 对应类型。文章按其主要复用场景进入 `articles/` 下对应主题目录，不按发布平台分类。
 2. 搜索已有主题页，提炼真正新增的结论，避免创建近义页。
 3. 保留从结论到来源的链接。
 4. 只有新增关键入口或改变导航时，才更新相关 `07_maps/` 与 `_wiki/index.md`。

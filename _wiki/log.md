@@ -1,5 +1,10 @@
 # LLM Wiki Log
 
+## [2026-07-30] restructure | 按主题整理文章输入
+
+- 在 `06_inputs/articles/` 下新增 `ai-engineering/`、`thinking-and-communication/` 和 `career-and-life/` 三类目录，并归档现有 7 篇文章。
+- 修复专业知识页中受移动影响的文章链接，并将分类规则写入 `AGENTS.md`。
+
 ## [2026-07-30] maintenance | 同步知识库维护规则与当前目录结构
 
 - 重写根目录 `AGENTS.md`，使目录模型与当前的 `03_professional_knowledge/`、`05_life/plans/` 和日记按月归档结构一致。

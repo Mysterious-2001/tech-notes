@@ -13,4 +13,4 @@ Harness的三根支柱：
 
 ## 相关输入
 
-- [[06_inputs/articles/管了31个AI员工之后我重新理解了管理学|管了 31 个 AI 员工之后，我重新理解了管理学]]
+- [[06_inputs/articles/ai-engineering/管了31个AI员工之后我重新理解了管理学|管了 31 个 AI 员工之后，我重新理解了管理学]]
