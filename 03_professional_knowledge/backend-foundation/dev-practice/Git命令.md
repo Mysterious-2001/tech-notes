@@ -18,11 +18,10 @@
 
 # 把别的分支合并进当前分支。
 - git merge
-比如当前qie dao是开发的分支,feat/xxx，合master进来，就是git merge
-# git fetch
-
-更新远程分支跟踪状态
-
+	比如当前切到了开发的分支,feat/xxx，合远端master进来，就是git merge origin/master
+# 拉取远端分支，更新远程分支跟踪状态
+- git fetch
+- git pull
 # 回退
 ## 最安全的做法：`git revert`
 
