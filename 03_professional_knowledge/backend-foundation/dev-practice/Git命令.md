@@ -1,5 +1,11 @@
-# git branch 
+看某个分支的提交历史和哈希：
+- git log --oneline
 
+临时把工作区切到旧版本：
+- git checkout hashcode
+这会处理“游离 HEAD”（detached HEAD）指：你当前指向的是一个具体提交，而不是某个分支。
+
+# git branch 
 查看本地分支 
 -a 查看所有分支
 # git switch
@@ -31,7 +37,8 @@ git revert commit-id
 
 ### 例子
 
-先看历史：git log --oneline
+先看历史：
+
 
 假设是：
 
