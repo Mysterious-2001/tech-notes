@@ -1,21 +1,24 @@
-看某个分支的提交历史和哈希：
+# 看某个分支的提交历史和哈希：
 - git log --oneline
 
-临时把工作区切到旧版本：
-- git checkout hashcode
-这会处理“游离 HEAD”（detached HEAD）指：你当前指向的是一个具体提交，而不是某个分支。
+# 临时把工作区切到旧版本：
+- git switch --detach  <提交哈希>
+	这会处于游离head状态，“游离 HEAD”（detached HEAD）指：你当前指向的是一个具体提交，而不是某个分支。
+- git switch -
+	切回去
 
-# git branch 
-查看本地分支 
--a 查看所有分支
-# git switch
 
-切换到某个分支
+# 查看本地分支
+- git branch 
+	-a 查看所有分支
 
-# git merge
+# 切换到某个分支
+- git switch
 
-把别的分支合并进当前分支。
 
+# 把别的分支合并进当前分支。
+- git merge
+比如当前qie dao是开发的分支,feat/xxx，合master进来，就是git merge
 # git fetch
 
 更新远程分支跟踪状态
