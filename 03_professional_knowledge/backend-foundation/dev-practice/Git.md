@@ -405,3 +405,5 @@ git merge feature
 就不会生成 `M`。
 
 只有真正“两边都前进过”时，通常才需要 merge commit。
+
+
