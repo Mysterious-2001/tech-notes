@@ -1,5 +1,11 @@
 # LLM Wiki Log
 
+## [2026-09-01] life | 建立英语日期复习入口
+
+- 将英语日期笔记规范到 `05_life/hobbies/english/daily/YYYY/YYYY-MM-DD.md`，保留原始学习内容不变。
+- 新增 `05_life/hobbies/english/index.md`，按 1、2、4、7、15、30 天间隔自动列出当天需要复习的整篇日期笔记。
+- `documented/` 中的长期材料保持原位，不进入日期复习列表。
+
 ## [2026-07-30] restructure | 按主题整理文章输入
 
 - 在 `06_inputs/articles/` 下新增 `ai-engineering/`、`thinking-and-communication/` 和 `career-and-life/` 三类目录，并归档现有 7 篇文章。
