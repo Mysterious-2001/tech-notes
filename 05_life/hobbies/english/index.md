@@ -2,21 +2,20 @@
 
 复习单位是整篇日期笔记，不分析笔记内容。
 
-复习间隔：1、2、4、7、15、30 天。
+复习间隔：1、4、7、15、30 天。
 
 ```base
 filters:
   and:
     - file.inFolder("05_life/hobbies/english/daily")
     - or:
-        - 'date(file.name) == today() - "1d"'
-        - 'date(file.name) == today() - "2d"'
-        - 'date(file.name) == today() - "4d"'
-        - 'date(file.name) == today() - "7d"'
-        - 'date(file.name) == today() - "15d"'
-        - 'date(file.name) == today() - "30d"'
+        - date(file.name) == today() - "1d"
+        - date(file.name) == today() - "4d"
+        - date(file.name) == today() - "7d"
+        - date(file.name) == today() - "15d"
+        - date(file.name) == today() - "30d"
 formulas:
-  interval_days: '(today() - date(file.name)) / 86400000'
+  interval_days: if(date(file.name) == today() - "1d", "1 天", if(date(file.name) == today() - "4d", "4 天", if(date(file.name) == today() - "7d", "7 天", if(date(file.name) == today() - "15d", "15 天", if(date(file.name) == today() - "30d", "30 天", "")))))
 properties:
   file.name:
     displayName: 学习日期
@@ -28,6 +27,10 @@ views:
     order:
       - file.name
       - formula.interval_days
+    sort:
+      - property: formula.interval_days
+        direction: DESC
+
 ```
 
 ## 使用方式
