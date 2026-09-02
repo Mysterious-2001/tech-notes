@@ -6,7 +6,7 @@ RAG 的关键不是“把文档塞进向量数据库”，而是围绕检索质�
 
 ## 相关笔记
 
-- [[03_professional_knowledge/agents/RAG|RAG 学习笔记]]
+- [[03_professional_knowledge/agents/archived/RAG|RAG 学习笔记]]
 - [[06_inputs/papers/RAG 论文|RAG 论文]]
 
 ## 待补问题
