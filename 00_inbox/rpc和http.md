@@ -1,5 +1,5 @@
+[既然有 HTTP 协议，为什么还要有 RPC？](https://www.xiaolincoding.com/network/2_http/http_rpc.html#http-%E5%92%8C-rpc-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)
 
-https://www.xiaolincoding.com/network/2_http/http_rpc.html#http-%E5%92%8C-rpc-%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB
 # 问题汇总
 
 ## 1. Consul 和 etcd 有什么区别？
