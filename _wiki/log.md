@@ -1,5 +1,10 @@
 # LLM Wiki Log
 
+## [2026-10-14] career | 建立面试经验目录
+
+- 新增 `02_career/interviews/`，用于按面试流程记录事实、复盘表现和追踪改进事项。
+- 新增面试经验入口页，并同步到 `07_maps/职业发展地图.md`。
+
 ## [2026-09-01] life | 建立英语日期复习入口
 
 - 将英语日期笔记规范到 `05_life/hobbies/english/daily/YYYY/YYYY-MM-DD.md`，保留原始学习内容不变。
